@@ -1,0 +1,74 @@
+{
+  "hooks": {
+    "pre-write": [
+      ".claude/hooks/powerbi-quality-check.md",
+      ".claude/hooks/documentation-validator.md"
+    ],
+    "pre-bash": [
+      ".claude/hooks/phase-gate-check.md"
+    ],
+    "pre-commit": [
+      ".claude/hooks/commit-quality-check.md",
+      ".claude/hooks/file-governance-check.md"
+    ]
+  },
+  "permissions": {
+    "allowlist": {
+      "bash": [
+        "git status",
+        "git diff",
+        "git log",
+        "git add",
+        "git commit",
+        "git push",
+        "git pull",
+        "git checkout",
+        "git branch",
+        "ls",
+        "mkdir",
+        "cat"
+      ],
+      "file": {
+        "read": true,
+        "write": true,
+        "edit": true
+      }
+    }
+  },
+  "skills": [
+    ".claude/skills/vision",
+    ".claude/skills/validate",
+    ".claude/skills/build",
+    ".claude/skills/transcrever-reuniao",
+    ".claude/skills/status",
+    ".claude/skills/revisar-modelo",
+    ".claude/skills/inicializar-pbip",
+    ".claude/skills/criar-medida",
+    ".claude/skills/criar-relacionamento",
+    ".claude/skills/criar-visual",
+    ".claude/skills/otimizar-query",
+    ".claude/skills/configurar-rls",
+    ".claude/skills/validar-modelo",
+    ".claude/skills/verificar-estrutura",
+    ".claude/skills/organizar-arquivos",
+    ".claude/skills/limpar-temporarios",
+    ".claude/skills/resumir-documento",
+    ".claude/skills/auditoria-arquivos",
+    ".claude/skills/status-arquivos"
+  ],
+  "agents": [
+    ".claude/agents/orchestrator.md",
+    ".claude/agents/vision-discovery.md",
+    ".claude/agents/validate-poc.md",
+    ".claude/agents/build-implementer-v2.md",
+    ".claude/agents/meeting-transcriber.md",
+    ".claude/agents/file-governance-agent.md"
+  ],
+  "primaryAgent": "orchestrator",
+  "governanceAgent": "file-governance-agent",
+  "mcpServers": {
+    "power-bi-modeling": {
+      "enabled": true
+    }
+  }
+}
