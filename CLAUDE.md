@@ -337,7 +337,7 @@ Todo código deve ser reviewado:
 
 **Quando não souber, SEMPERE pergunte.**
 
-É melhor fazer 3 perguntas "bolas" do que assumir algo errado e ter que refazer dias de trabalho.
+É melhor fazer 3 perguntas "boas" do que assumir algo errado e ter que refazer dias de trabalho.
 
 Nossa consultoria preza por qualidade, confiança e transparência. Errar rápido é permitido. Entregar bugado não.
 
