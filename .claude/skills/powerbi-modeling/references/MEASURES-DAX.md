@@ -17,6 +17,75 @@
 | Bridge | Combined names | CustomerAccount, ProductCategory |
 | Measure Table | Underscore prefix | _Measures, _KPIs |
 
+## ⚠️ CRITICAL: Dedicated Measure Table Required
+
+**ALL Power BI models MUST have a dedicated measures table named `_Measures`:**
+
+### Why a Dedicated Measures Table?
+1. **Organization**: All measures in one place
+2. **UX**: Users see "Measures" at top of field list
+3. **Performance**: No accidental column aggregation
+4. **Maintenance**: Easy to find and update measures
+5. **Best Practice**: Microsoft recommended pattern
+
+### Creating the _Measures Table
+```dax
+// In Tabular Editor or Power BI Desktop:
+// Create a new calculation table
+
+_Measures =
+    UNION(
+        ROW("Measure", "Placeholder"),
+        ROW("Measure", "Placeholder2")
+    )
+```
+
+### Best Practices for _Measures Table
+```dax
+// Then delete the placeholder column
+// All measures live in this table with:
+// - No columns (except hidden technical column if needed)
+// - No relationships
+// - All measures organized in display folders
+// - IsHidden = false (visible to users)
+// - All other table columns hidden if they contain measures
+```
+
+### Measure Organization in Display Folders
+```
+_Measures
+├── 01. Revenue
+│   ├── Total Sales
+│   ├── YTD Sales
+│   └── Sales vs Budget
+├── 02. Margins
+│   ├── Gross Margin %
+│   ├── Net Margin %
+│   └── Margin vs PY
+├── 03. Customers
+│   ├── Customer Count
+│   ├── Active Customers
+│   └── New Customers
+├── 04. Time Intelligence
+│   ├── Year
+│   │   ├── YTD Sales
+│   │   └── PY Sales
+│   └── Month
+│       ├── MTD Sales
+│       └── PM Sales
+└── 99. Technical
+    ├── _Row Count
+    └── _Max Date
+```
+
+### Hiding Measures in Fact Tables
+```
+After moving measures to _Measures:
+1. Hide measures in fact tables (isHidden: true)
+2. Or keep "transition period" measures with underscore prefix
+3. Document which measures to migrate
+```
+
 ### Column Naming
 | Type | Convention | Example |
 |------|------------|---------|
@@ -185,11 +254,23 @@ RETURN
 
 ## Validation Checklist
 
+### Model Structure
+- [ ] **Dedicated `_Measures` table exists** (REQUIRED)
+- [ ] All measures organized in `_Measures` table
+- [ ] Measures in fact tables hidden or migrated
+- [ ] Display folders used for organization
+
+### Measure Quality
 - [ ] All key business metrics have explicit measures
 - [ ] Measures have clear, descriptive names
-- [ ] Measures have descriptions
+- [ ] Measures have descriptions (what and why)
 - [ ] Appropriate format strings applied
-- [ ] Display folders organize related measures
 - [ ] Column references are fully qualified
-- [ ] Measure references are not qualified
+- [ ] Measure references are NOT qualified
 - [ ] Variables used for complex calculations
+
+### DAX Best Practices
+- [ ] DIVIDE() used instead of / operator
+- [ ] No hardcoded values (use parameters)
+- [ ] Error handling implemented (IFERROR, DIVIDE)
+- [ ] Time intelligence uses explicit date table

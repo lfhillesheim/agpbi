@@ -20,9 +20,31 @@ Validates Power BI model changes follow best practices before saving.
 ### 2. Relationship Quality
 ```javascript
 // For each relationship:
-- [ ] Cardinality is correct
-- [ ] Cross-filter direction is appropriate
+- [ ] Cardinality is correct (prefer 1:*)
+- [ ] Cross-filter direction is SINGLE by default
+- [ ] Bi-directional requires AIDEV-QUESTION anchor (STRICT)
 - [ ] No circular dependencies
+- [ ] Only one active path between tables
+```
+
+### 3. Table Quality
+```javascript
+// For each table:
+- [ ] Proper data types
+- [ ] Technical columns hidden (keys, IDs, audit)
+- [ ] Business columns visible
+- [ ] Table has description
+- [ ] _Measures table exists (REQUIRED)
+```
+
+### 4. Star Schema Compliance
+```javascript
+// Check model structure:
+- [ ] Fact tables contain measures only (or hidden)
+- [ ] Dimension tables contain attributes only
+- [ ] Relationships: 1:* from dimension to fact
+- [ ] Single direction cross-filter (by default)
+- [ ] No bi-directional without documentation
 ```
 
 ### 3. Table Quality
@@ -37,10 +59,31 @@ Validates Power BI model changes follow best practices before saving.
 ### 4. Star Schema Compliance
 ```javascript
 // Check model structure:
-- [ ] Fact tables contain measures only
+- [ ] Fact tables contain measures only (or hidden)
 - [ ] Dimension tables contain attributes only
 - [ ] Relationships: 1:* from dimension to fact
 - [ ] Single direction cross-filter (by default)
+- [ ] No bi-directional without documentation
+```
+
+### 5. Model Documentation (NEW - STRICT)
+```javascript
+// Validate all model objects are documented:
+- [ ] All tables have descriptions
+- [ ] All measures have descriptions
+- [ ] All visible columns have descriptions
+- [ ] All relationships documented (AIDEV-NOTE if unusual)
+- [ ] Data lineage documented for fact tables
+```
+
+### 6. Critical Performance Checks (NEW - STRICT)
+```javascript
+// Performance anti-patterns that MUST be avoided:
+- [ ] Auto Date/Time is DISABLED (Critical!)
+- [ ] Query folding verified for source tables
+- [ ] No bi-directional relationships without AIDEV-QUESTION
+- [ ] Date table is explicit and marked
+- [ ] No calculated columns on relationship keys
 ```
 
 ## Configuration
@@ -50,11 +93,19 @@ Validates Power BI model changes follow best practices before saving.
   "quality_checks": {
     "strict_mode": false,
     "warnings_only": true,
+    "critical_blocking": [
+      "auto_date_time_enabled",
+      "bidirectional_without_anchor",
+      "circular_dependency"
+    ],
     "auto_fix": {
       "hide_technical_columns": true,
       "add_format_strings": false
     }
   },
+  "required_tables": [
+    "_Measures"
+  ],
   "exceptions": [
     "Technical explanation columns",
     "Legacy compatibility tables"
@@ -105,15 +156,24 @@ relationship_operations(operation: "List")
    → Add: "Sum of all sales amounts"
 
 2. Relationship 'Sales-Customer' uses bi-directional filter
-   → Consider using single direction unless needed
+   → STRICT VIOLATION: Add AIDEV-QUESTION anchor or change to single
 
 3. Column 'CustomerKey' in Customer table is visible
    → Hide this technical column
+
+4. Auto Date/Time is enabled
+   → CRITICAL: Disable in File → Options → Data Load
+
+5. _Measures table does not exist
+   → REQUIRED: Create dedicated measures table
+
+6. Table 'Sales' has no description
+   → Add: "Transactional sales data with order details"
 ```
 
 ### ❌ Errors (strict mode)
 ```
-❌ Power BI quality check: 2 critical errors - save blocked
+❌ Power BI quality check: 4 critical errors - save blocked
 
 1. Calculated column 'SalesAmount' should be a measure
    → Create measure instead: Total Sales = SUM(Sales[SalesAmount])
@@ -121,6 +181,12 @@ relationship_operations(operation: "List")
 2. Circular dependency detected:
    Sales → Customer → Region → Sales
    → Review relationship configuration
+
+3. Bi-directional relationship without AIDEV-QUESTION anchor
+   → STRICT: Add documentation anchor or use CROSSFILTER in DAX
+
+4. Auto Date/Time is enabled
+   → CRITICAL: Disable in File → Options → Data Load → Auto Date/Time
 ```
 
 ## Usage

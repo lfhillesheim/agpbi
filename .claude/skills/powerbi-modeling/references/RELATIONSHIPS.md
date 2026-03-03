@@ -25,23 +25,65 @@ Product  (1) --> (*) Sales
 Date     (1) --> (*) Sales
 ```
 
-### 2. Use Single-Direction Cross-Filtering
+### 2. Use Single-Direction Cross-Filtering (STRICT RULE)
+
+**⚠️ CRITICAL: Bidirectional relationships are almost always WRONG.**
+
+```
 Bidirectional filtering:
-- Impacts performance negatively
+- Impacts performance negatively (2-10x slower queries)
 - Can create ambiguous filter paths
 - May produce unexpected results
+- Makes model harder to understand and maintain
+- Reduces query plan optimization
+```
 
-**Only use bidirectional when:**
-- Dimension-to-dimension analysis through fact table
-- Specific RLS requirements
+**STRICT POLICY: Single-direction ONLY, with documented exceptions.**
 
-**Better alternative:** Use CROSSFILTER in DAX measures:
+**Default behavior:**
+```
+Dimension (1) --[Single]--> (*) Fact
+Filters flow FROM dimension TO fact only
+```
+
+**NEVER use bidirectional unless:**
+1. You have a documented, approved reason
+2. You've tried all alternatives (DAX CROSSFILTER, measure design)
+3. You understand the performance impact
+4. You've added an AIDEV-QUESTION anchor
+
+**Documented exception process:**
 ```dax
-Countries Sold = 
+// AIDEV-QUESTION: Why bidirectional here?
+// AIDEV-ANSWER: Required for dimension-to-dimension analysis
+// between Customer and Product through Sales. Alternative:
+// Create explicit bridge table or use CROSSFILTER in specific measures.
+// Performance impact: +30% query time on Customer-Product analysis.
+```
+
+**Better alternatives to bidirectional:**
+
+1. **Use CROSSFILTER in specific measures:**
+```dax
+// Only affects this measure
+Countries Sold To =
 CALCULATE(
     DISTINCTCOUNT(Customer[Country]),
     CROSSFILTER(Customer[CustomerKey], Sales[CustomerKey], BOTH)
 )
+```
+
+2. **Create bridge tables for dimension-to-dimension:**
+```
+Customer (1) --(*)--[CustomerProductBridge]--(*)-- Product (1)
+```
+
+3. **Redesign the model:**
+```
+// Instead of bidirectional, create:
+CustomerSales (aggregate by customer)
+ProductSales (aggregate by product)
+// Then relate these as needed
 ```
 
 ### 3. One Active Path Between Tables

@@ -144,21 +144,27 @@ cliente-x/
 ### Power BI (PBIP)
 - **Modelo**: Star Schema obrigatório
 - **Naming**: Human-readable (`Customer Name` não `CUST_NM`)
-- **Documentação**: Todas as tabelas, colunas e medidas com descrições
+- **Documentação**: Todas as tabelas, colunas e medidas com descrições (OBRIGATÓRIO)
 - **Medidas**: Sempre usar medidas DAX, nunca colunas calculadas para agregações
-- **Relacionamentos**: One-to-many, single direction por padrão
+- **Tabela _Measures**: Tabela dedicada de medidas OBRIGATÓRIA em todos os modelos
+- **Relacionamentos**: One-to-many, **SINGLE direction obrigatório** (bi-direcional requer AIDEV-QUESTION)
 - **Esconder**: Chaves técnicas e IDs (isHidden: true)
-- **Tabela de Data**: Marcar como Date Table
+- **Tabela de Data**: Sempre explícita, marcada como Date Table
+- **Auto Date/Time**: SEMPRE desabilitado (todos os modelos!)
 
 ### DAX
 - **Formatação**: Sempre format string definido
 - **Descrição**: O que a medida calcula e por quê
 - **Performance**: Evitar medidas iterativas quando possível
+- **DIVIDE**: Sempre usar DIVIDE() em vez de /
+- **Variáveis**: Usar VAR para clareza e performance
 
 ### Power Query (M)
+- **Query Folding**: Otimização MAIS importante - sempre verificar
 - **Nomes**: Passos descritivos
 - **Comentários**: Para transformações complexas
-- **Performance**: Fold sempre que possível
+- **Filtros**: Aplicar o mais cedo possível (primeiro passo)
+- **Colunas**: Remover não utilizadas imediatamente
 
 ---
 
@@ -171,6 +177,8 @@ Use esses comentários no código para orientar agentes IA:
 // AIDEV-TODO: implement variable after POC approval
 // AIDEV-QUESTION: why bidirectional here?
 // AIDEV-ANSWER: historical: multiple fact tables need it
+// AIDEV-FOLDING: Verify this step folds to source SQL
+// AIDEV-LINEAGE: Source column is SourceTable.ColumnX
 ```
 
 **Regras**:
@@ -189,6 +197,9 @@ Use esses comentários no código para orientar agentes IA:
 5. ❌ **Assumir lógica de negócio** - Sempre perguntar
 6. ❌ **Remover comentários AIDEV-*** - Eles existem por um motivo
 7. ❌ **Alterar campos de RLS sem aprovação** - Segurança crítica
+8. ❌ **Usar bi-direcional sem AIDEV-QUESTION** - Strict rule
+9. ❌ **Criar modelo sem tabela _Measures** - Obrigatória
+10. ❌ **Deixar Auto Date/Time habilitado** - Desligar SEMPRE
 
 ---
 
@@ -284,15 +295,39 @@ Atividades devem ter:
 ### Checklist de Entrega
 
 Antes de entregar qualquer projeto:
+
+#### Requisitos OBRIGATÓRIOS
 - [ ] Escopo aprovado e fechado
 - [ ] Números validados com negócio
+
+#### Modelo de Dados
 - [ ] Modelo segue Star Schema
+- [ ] Tabela _Measures existe (OBRIGATÓRIO)
+- [ ] Todas as medidas em _Measures com display folders
+- [ ] Auto Date/Time desabilitado (OBRIGATÓRIO)
+- [ ] Tabela de Data explícita e marcada
+- [ ] Relacionamentos single-direction (bi-direcional requer AIDEV-QUESTION)
+- [ ] Chaves técnicas ocultas
+- [ ] Query folding verificado para tabelas de origem
+
+#### Documentação
+- [ ] Todas as tabelas têm descrição
 - [ ] Todas as medidas têm descrição
+- [ ] Todas as colunas visíveis têm descrição
+- [ ] Data lineage documentado para fact tables
 - [ ] Documentação técnica completa
 - [ ] Documentação de negócio clara
+
+#### Performance e Operação
+- [ ] Performance testada com dados representativos
+- [ ] Incremental refresh configurado (se aplicável)
 - [ ] RLS configurado (se necessário)
 - [ ] Gateway configurado
 - [ ] Atualização automatizada
+- [ ] Deploy automatizado (CI/CD)
+
+#### Usuário
+- [ ] Manual do usuário final
 - [ ] Usuários treinados
 - [ ] Feedback coletado
 
@@ -322,14 +357,29 @@ Todo código deve ser reviewado:
 
 ## Comandos Principais
 
+### Metodologia
 - `/vision` - Iniciar etapa Vision
 - `/validate` - Iniciar etapa Validate
 - `/build` - Iniciar etapa Build
 - `/status` - Ver status do projeto
+
+### Técnico Power BI
+- `/inicializar-pbip` - Criar estrutura PBIP
+- `/criar-medida` - Criar medida DAX
+- `/criar-relacionamento` - Criar relacionamento
+- `/criar-calculation-group` - Criar calculation group (NOVO)
+- `/configurar-rls` - Configurar RLS
+- `/configurar-incremental-refresh` - Configurar incremental refresh (NOVO)
+- `/otimizar-query` - Otimizar Power Query (query folding)
+- `/deploy-pbip` - Deploy para Power BI Service (NOVO)
+
+### Governança
 - `/transcrever-reuniao` - Processar transcrição
 - `/revisar-modelo` - Revisar modelo Power BI
-- `/documentar` - Gerar documentação
-- `/checklist` - Ver checklist de entrega
+- `/validar-modelo` - Validar modelo completo
+- `/verificar-estrutura` - Validar estrutura de arquivos
+- `/organizar-arquivos` - Organizar projeto
+- `/auditoria-arquivos` - Auditoria completa
 
 ---
 
@@ -343,6 +393,30 @@ Nossa consultoria preza por qualidade, confiança e transparência. Errar rápid
 
 ---
 
-**Última atualização**: 2026-02-27
-**Versão**: 1.0.0
+**Última atualização**: 2026-03-02
+**Versão**: 3.1.0
 **Framework**: AGPBI
+
+---
+
+## Novidades v3.1
+
+### Novas Referências Técnicas
+- **INCREMENTAL-REFRESH.md** - Configuração de atualização incremental
+- **CALCULATION-GROUPS.md** - Calculation groups para DAX reutilizável
+- **COMPOSITE-MODELS.md** - Modelos híbridos Import/DirectQuery
+- **CICD-DEPLOYMENT.md** - CI/CD e deployment automatizado
+- **PERSPECTIVES.md** - Perspectivas para organizar modelos
+- **DATA-LINEAGE.md** - Rastreabilidade de dados
+
+### Novos Skills
+- `/configurar-incremental-refresh` - Configurar incremental refresh
+- `/criar-calculation-group` - Criar calculation group
+- `/deploy-pbip` - Deploy para Power BI Service
+
+### Regras Atualizadas
+- **Auto Date/Time**: Desabilitar SEMPRE (não só DirectQuery)
+- **Bi-direcional**: Requer AIDEV-QUESTION obrigatório
+- **Tabela _Measures**: OBRIGATÓRIA em todos os modelos
+- **Query Folding**: Verificar folding para todas as fontes
+- **Documentação**: Validada em hooks automaticamente

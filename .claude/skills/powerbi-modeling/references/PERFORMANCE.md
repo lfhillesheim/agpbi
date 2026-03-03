@@ -45,6 +45,10 @@ Pre-aggregate data when detail not needed:
 - Monthly instead of daily
 - Consider aggregation tables for DirectQuery
 
+### 6. Query Folding (CRITICAL - See DirectQuery Section)
+Query folding is the MOST important Power Query optimization.
+See "Query Folding" section below for detailed guidance.
+
 ## Column Optimization
 
 ### Prefer Power Query Columns Over Calculated Columns
@@ -163,11 +167,73 @@ Complex DAX generates complex SQL:
 - Add complexity gradually
 - Monitor query performance
 
-### 4. Disable Auto Date/Time
-For DirectQuery models, disable auto date/time:
-- Creates hidden calculated tables
-- Increases model complexity
-- Use explicit date table instead
+### 4. ALWAYS Disable Auto Date/Time (CRITICAL)
+**Auto Date/Time MUST be disabled for ALL models - not just DirectQuery:**
+- Creates 4 hidden calculated tables per date column
+- Significantly increases model size
+- Causes ambiguous filter paths
+- Hurts query performance
+- Confuses users with duplicate date hierarchies
+
+**How to disable:**
+```
+Power BI Desktop → File → Options and settings → Options
+→ Current File → Data Load →
+☑ Auto Date/Time (for new files) → UNCHECK
+```
+
+**Use explicit date table instead:**
+```dax
+Date =
+ADDCOLUMNS(
+    CALENDAR(DATE(2020,1,1), DATE(2030,12,31)),
+    "Year", YEAR([Date]),
+    "Month", FORMAT([Date], "MMMM"),
+    "MonthNum", MONTH([Date]),
+    "Quarter", "Q" & FORMAT([Date], "Q"),
+    "WeekDay", FORMAT([Date], "dddd")
+)
+// Mark as Date Table in Model view
+```
+
+### 5. Query Folding (CRITICAL)
+**Query Folding is the most important Power Query optimization:**
+
+**What is Query Folding?**
+- Power Query translates M operations into source SQL
+- Source database does the heavy lifting
+- Only filtered/aggregated data is loaded
+
+**Best Practices for Query Folding:**
+```m
+// GOOD - These operations typically fold:
+Table.SelectRows()     // WHERE clause
+Table.SelectColumns()  // SELECT specific columns
+Table.Sort()           // ORDER BY
+Table.Group()          // GROUP BY
+Table.Join()           // JOIN/UNION
+Table.FirstN()         // TOP N
+
+// BAD - These operations break folding:
+Table.TransformRows()  // Custom row transformation
+List.Buffer()          // Loads data into memory
+Text.Contains()        // On some sources
+DateTime.LocalNow()    // Non-deterministic functions
+```
+
+**Verify Query Folding:**
+```
+Power Query Editor → View → Query Dependencies
+Right-click query → Native Query
+(If empty, folding is not happening)
+```
+
+**Best Practices:**
+1. Keep transformations simple and source-friendly
+2. Filter early (first step if possible)
+3. Remove unused columns immediately
+4. Avoid custom M functions when native operations exist
+5. Test with "View Native Query" regularly
 
 ## Aggregations
 
@@ -204,12 +270,33 @@ External tool for:
 
 ## Validation Checklist
 
+### Power Query
+- [ ] Query folding verified (Native Query exists)
+- [ ] Filters applied early in the query
+- [ ] Unused columns removed immediately
+- [ ] Unnecessary rows filtered at source
+- [ ] Data types optimized (Date vs DateTime, etc.)
+- [ ] No List.Buffer or Table.TransformRows when folding needed
+
+### Data Model
+- [ ] Auto Date/Time disabled (ALL models, not just DirectQuery)
 - [ ] Unnecessary columns removed
 - [ ] Appropriate data types used
 - [ ] High-cardinality columns addressed
-- [ ] Bidirectional relationships minimized
+- [ ] Explicit date table created and marked
+
+### Relationships
+- [ ] Bidirectional relationships minimized (ideally zero)
+- [ ] One active path between any two tables
+- [ ] Single-direction cross-filtering by default
+
+### DAX
 - [ ] DAX uses variables for repeated expressions
 - [ ] No FILTER on entire tables
 - [ ] DIVIDE used instead of division operator
-- [ ] Auto date/time disabled for DirectQuery
+- [ ] KEEPFILTERS used appropriately
+
+### Testing
 - [ ] Performance tested with representative data
+- [ ] Performance Analyzer used to identify bottlenecks
+- [ ] Query plans reviewed for large measures
