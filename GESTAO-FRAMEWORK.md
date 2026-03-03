@@ -10,6 +10,62 @@ empresa-x     = Cliente Empresa X
 
 ---
 
+# 🚀 NOVO: Sistema Automatizado
+
+## Use o `/agpbi-push-framework`
+
+O framework **detecta automaticamente** se a mudança é geral ou específica:
+
+```
+/agpbi-push-framework
+→ Descreva o que fez
+→ Framework analisa e sugere (main ou branch)
+→ Você confirma
+→ Framework executa tudo automaticamente
+```
+
+### Como Funciona
+
+1. Você faz mudanças (skills, projetos, etc)
+2. Chama `/agpbi-push-framework`
+3. Descreve: "Criei nova skill agpbi-xxx"
+4. Framework pergunta: "Isso beneficia todos? [main] ✅"
+5. Você confirma
+6. Framework: stasha → vai pra main → commita → atualiza todos clientes
+
+**Pronto!** Sem comandos git manuais.
+
+---
+
+## Tipos de Mudança
+
+### 🌍 MUDANÇA GERAL (Vai para MAIN)
+
+**São mudanças que beneficiam TODOS os clientes:**
+
+| Tipo | Exemplo |
+|------|---------|
+| Nova skill | `/agpbi-xxx` novo |
+| Melhoria de skill | `/agpbi-vision` melhor |
+| Novo agente | Novo agente XYZ |
+| Bug no framework | Correção de erro |
+| Novo script | Script útil para todos |
+| Documentação | Atualização de README |
+
+### 🏢 MELHORIA ISOLADA (Fica no BRANCH do cliente)
+
+**São mudanças ESPECÍFICAS daquele cliente:**
+
+| Tipo | Exemplo |
+|------|---------|
+| Dados do cliente | Info sobre Topmed |
+| Projetos | `topmed-financeiro` |
+| Customização | Cores da marca Topmed |
+| Dados específicos | URLs, APIs do cliente |
+| Docs do cliente | Contexto de Topmed |
+
+---
+
 ## Criar Novo Cliente
 
 ```bash
@@ -20,7 +76,7 @@ git checkout main
 git checkout -b topmed
 
 # 3. Criar primeiro projeto
-/scripts/new-project.bat topmed-financeiro "Dashboard Financeiro"
+scripts\new-project.bat topmed-financeiro "Dashboard Financeiro"
 
 # 4. Commit e push
 git add .
@@ -30,142 +86,29 @@ git push -u origin topmed
 
 ---
 
-## Tipos de Mudança
+## Manual (se preferir)
 
-### 🌍 MELHORIA GERAL (Vai para MAIN)
+### Mudança Geral
 
-**São mudanças que beneficiam TODOS os clientes:**
-
-| Tipo | Exemplo | Para onde vai |
-|------|---------|---------------|
-| Nova skill | `/agpbi-xxx` novo | `main` |
-| Melhoria de skill | `/agpbi-vision` melhor | `main` |
-| Novo agente | Novo agente XYZ | `main` |
-| Bug no framework | Correção de erro | `main` |
-| Novo script | Script útil para todos | `main` |
-| Documentação | Atualização de README | `main` |
-
-**Fluxo:**
 ```bash
-# 1. Ir para main
 git checkout main
-
-# 2. Fazer a mudança
-# ... editar arquivos ...
-
-# 3. Commit e push
+# ... mudar ...
 git add .
-git commit -m "feat: Add nova feature para todos clientes"
+git commit -m "feat: Nova feature"
 git push
 
-# 4. Merge para cada cliente
-git checkout topmed
-git merge main
-git push
-
-git checkout empresa-x
-git merge main
-git push
+# Atualizar clientes
+scripts\update-clientes.bat
 ```
 
----
+### Mudança Específica
 
-### 🏢 MELHORIA ISOLADA (Fica no BRANCH do cliente)
-
-**São mudanças ESPECÍFICAS daquele cliente:**
-
-| Tipo | Exemplo | Para onde vai |
-|------|---------|---------------|
-| Dados do cliente | Info sobre Topmed | Branch `topmed` |
-| Projetos | `topmed-financeiro` | Branch `topmed` |
-| Customização | Cores da marca Topmed | Branch `topmed` |
-| Dados específicos | URLs, APIs do cliente | Branch `topmed` |
-| Docs do cliente | Contexto de Topmed | Branch `topmed` |
-
-**Fluxo:**
 ```bash
-# Já estar no branch do cliente
 git checkout topmed
-
-# Fazer mudança específica
-# ... editar arquivos ...
-
-# Commit e push
+# ... mudar ...
 git add .
-git commit -m "feat: Add customizacao para Topmed"
+git commit -m "feat: Customizacao"
 git push
-```
-
----
-
-## Checklist: MAIN ou CLIENTE?
-
-### Pergunta: Esta mudança beneficia TODOS os clientes?
-
-- **SIM** → Vai para `main`
-- **NÃO** → Vai para branch do cliente
-
-### Exemplos Práticos
-
-| Mudança | Para onde vai? |
-|---------|---------------|
-| Criar `/agpbi-criar-grafico` | `main` ✅ |
-| Corrigir bug no `/agpbi-vision` | `main` ✅ |
-| Adicionar logo Topmed | `topmed` ❌ |
-| Criar projeto `topmed-vendas` | `topmed` ❌ |
-| Melhorar script `new-project.bat` | `main` ✅ |
-| Atualizar `clientes.md` | `main` ✅ |
-| Documentação específica Topmed | `topmed` ❌ |
-
----
-
-## Atualizar Clientes com Mudanças da Main
-
-```bash
-# Script para atualizar todos clientes
-#!/bin/bash
-
-CLIENTES="topmed empresa-x outro-cliente"
-
-git checkout main
-git pull
-
-for cliente in $CLIENTES; do
-    echo "Atualizando $cliente..."
-    git checkout $cliente
-    git merge main
-    git push
-done
-
-git checkout main
-```
-
----
-
-## Resumo Visual
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  MAIN (Template Puro)                                    │
-│  ┌─────────────────────────────────────────────────┐   │
-│  │ .claude/          (skills, agents)              │   │
-│  │ scripts/          (new-project.bat, etc)        │   │
-│  │ README.md                                      │   │
-│  │ clientes.md                                    │   │
-│  └─────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────┘
-            │ merge (framework updates)
-            ▼
-┌─────────────────────────────────────────────────────────┐
-│  TOPMED (Branch)                                         │
-│  ┌─────────────────────────────────────────────────┐   │
-│  │ .claude/          (herdado da main)             │   │
-│  │ scripts/          (herdado da main)             │   │
-│  │ 01-vision/topmed-financeiro/  (ESPECÍFICO)      │   │
-│  │ 02-validate/topmed-financeiro/ (ESPECÍFICO)     │   │
-│  │ 03-build/topmed-financeiro/    (ESPECÍFICO)     │   │
-│  └─────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -186,7 +129,4 @@ git checkout -b novo-cliente
 # Atualizar cliente com main
 git checkout topmed
 git merge main
-
-# Ver diferença entre main e cliente
-git diff main..topmed
 ```
