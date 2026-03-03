@@ -1,10 +1,9 @@
-# AGPBI Framework
+# AGPBI Framework - Monorepo
 
 > Framework especializado para consultoria de dados com Power BI
-> Template principal para criação de repositórios de cliente
+> **Metodologia**: Vision → Validate → Build
 
 **Versão**: 3.2.0
-**Última atualização**: 2026-03-03
 **Status**: ✅ Produção
 
 ---
@@ -23,64 +22,75 @@ O **AGPBI** é um framework completo com agentes, skills e templates projetados 
 
 ---
 
-## 🚀 Criar Novo Repositório de Cliente
+## 📁 Estrutura Monorepo
 
-### Opção 1: Script Automatizado (Recomendado)
-
-```bash
-# Clonar este template primeiro
-git clone https://github.com/lfhillesheim/agpbi.git
-cd agpbi
-
-# Executar script
-./scripts/new-client.sh "Nome do Cliente"
+```
+agpbi/
+├── .claude/              # Framework (skills, agents, refs) - CENTRALIZADO
+├── _framework/           # Documentação do framework
+├── clientes/             # Pastas de cada cliente
+│   ├── topmed/          # Cliente existente
+│   └── nova-empresa/    # Novos clientes aqui
+├── scripts/              # Scripts utilitários
+│   └── new-client.sh    # Criar novo cliente
+└── README.md
 ```
 
-### Opção 2: GitHub CLI
+### Por que Monorepo?
 
-```bash
-gh repo create cliente-nome --private --clone
-cd cliente-nome
-git remote add template https://github.com/lfhillesheim/agpbi.git
-git fetch template
-git merge template/main --allow-unrelated-histories -m "feat: Initial from AGPBI"
-git remote remove template
-git push -u origin main
-```
-
-### Opção 3: GitHub UI
-
-1. Acesse https://github.com/lfhillesheim/agpbi
-2. Clique em **"Use this template"** → **"Create a new repository"**
-3. Nomeie como `cliente-nome` e marque como **Private**
-
-> 📖 **Guia completo**: [docs/novo-cliente.md](docs/novo-cliente.md)
+✅ **Framework centralizado** - uma atualização, todos os clientes beneficiados
+✅ **Sem sync manual** - skills e agents são compartilhados
+✅ **Simples** - um repo para gerenciar tudo
+✅ **Isolamento** - cada cliente tem sua pasta e contexto
 
 ---
 
-## 📁 Estrutura do Repositório do Cliente
+## 🚀 Criar Novo Cliente
+
+```bash
+./scripts/new-client.sh "Nome da Empresa"
+```
+
+Isso cria:
 
 ```
-cliente-nome/
-├── .claude/              # Config AGPBI (não modificar)
-├── 00-contexto/          # Contexto permanente do cliente
-├── 01-vision/            # Descobertas e escopo
-├── 02-validate/          # Validações e POCs
-├── 03-build/             # Implementação PBIP
-│   └── projects/         # Projetos Power BI
-├── 04-reunioes/          # Transcrições e resumos
-├── 05-atividades/        # Gestão de tarefas
-├── 06-decisoes/          # Decisões e aprovações
-├── .context/             # SSOT do projeto
-├── CLAUDE.md             # Documentação principal
-└── README.md             # Overview do cliente
+clientes/nova-empresa/
+├── 00-contexto/          # Contexto permanente
+├── 01-vision/            # Discovery
+├── 02-validate/          # POCs
+├── 03-build/             # Implementação
+├── 04-reunioes/          # Transcrições
+├── 05-atividades/        # Tarefas
+├── 06-decisoes/          # Decisões
+├── .context/             # SSOT do cliente
+└── CLAUDE.md             # Config específica
 ```
 
 ---
 
-## 💻 Comandos Disponíveis (todos com prefixo `/agpbi-`)
+## 💼 Trabalhar com Cliente
 
-### Metodologia
+Navegue até a pasta do cliente:
+
+```bash
+cd clientes/topmed
+```
+
+Use os comandos AGPBI:
+
+| Comando | Descrição |
+|---------|-----------|
+| `/agpbi-vision` | Iniciar discovery |
+| `/agpbi-validate` | Criar POCs |
+| `/agpbi-build` | Implementar |
+| `/agpbi-status` | Ver status |
+| `/agpbi-retrospectiva` | Retrospectiva |
+
+---
+
+## 💻 Comandos Disponíveis
+
+### Metodologia (5)
 | Comando | Descrição |
 |---------|-----------|
 | `/agpbi-vision` | Iniciar fase Vision |
@@ -89,7 +99,7 @@ cliente-nome/
 | `/agpbi-status` | Ver status do projeto |
 | `/agpbi-retrospectiva` | Retrospectiva ao final de fase |
 
-### Técnico Power BI
+### Técnico Power BI (9)
 | Comando | Descrição |
 |---------|-----------|
 | `/agpbi-inicializar-pbip` | Criar estrutura PBIP |
@@ -100,9 +110,9 @@ cliente-nome/
 | `/agpbi-configurar-incremental-refresh` | Configurar incremental refresh |
 | `/agpbi-otimizar-query` | Otimizar Power Query |
 | `/agpbi-deploy-pbip` | Deploy para Power BI Service |
-| `/agpbi-powerbi-modeling` | Assistente de modelagem Power BI |
+| `/agpbi-powerbi-modeling` | Assistente de modelagem |
 
-### Governança
+### Governança (9)
 | Comando | Descrição |
 |---------|-----------|
 | `/agpbi-transcrever-reuniao` | Processar transcrição |
@@ -114,32 +124,6 @@ cliente-nome/
 | `/agpbi-status-arquivos` | Status da organização |
 | `/agpbi-limpar-temporarios` | Limpar arquivos temporários |
 | `/agpbi-resumir-documento` | Resumir documento |
-
----
-
-## 🔄 Sincronizar com Template
-
-Quando o AGPBI for atualizado:
-
-```bash
-git remote add template https://github.com/lfhillesheim/agpbi.git
-git fetch template
-git log HEAD..template/main --oneline  # ver mudanças
-git merge template/main -m "chore: Sync with AGPBI template vX.X.X"
-git push
-```
-
----
-
-## 📖 Documentação
-
-| Arquivo | Descrição |
-|---------|-----------|
-| [CLAUDE.md](CLAUDE.md) | Constituição completa do framework |
-| [docs/novo-cliente.md](docs/novo-cliente.md) | Criar novo repositório de cliente |
-| [docs/guia-inicio-rapido.md](docs/guia-inicio-rapido.md) | Comece aqui |
-| [docs/metodologia.md](docs/metodologia.md) | Vision-Validate-Build detalhado |
-| [docs/melhores-praticas.md](docs/melhores-praticas.md) | Boas práticas Power BI |
 
 ---
 
@@ -158,29 +142,43 @@ git push
 - **Metodologia** (5): vision, validate, build, status, retrospectiva
 - **Técnicos** (9): pbip, medida, relacionamento, visual, calc-group, RLS, incremental, query, deploy
 - **Governança** (9): transcrição, revisão, validação, estrutura, organização, auditoria, status-arquivos, limpar, resumir
-- **Modeling** (1): powerbi-modeling + 11 referências
+- **Modeling** (1): powerbi-modeling
 
-### Hooks (7)
-- **Nativos**: pre-write, post-write
-- **Custom**: pre-bash, pre-commit, post-phase
+---
+
+## 🔄 Atualizações do Framework
+
+**Framework centralizado = uma atualização, todos os clientes beneficiados!**
+
+Sempre que você:
+- Adiciona uma skill nova
+- Melhora um agent
+- Atualiza a documentação
+
+Todos os clientes automaticamente têm acesso, sem precisar de sync manual.
+
+---
+
+## 📖 Documentação
+
+| Arquivo | Descrição |
+|---------|-----------|
+| [CLAUDE.md](CLAUDE.md) | Constituição completa do framework |
+| [_framework/](._framework/) | Referências técnicas |
 
 ---
 
 ## 📊 Versão
 
 ### v3.2.0 (2026-03-03)
-- ✅ Prefixo `agpbi-` padronizado em todos comandos
-- ✅ Criados arquivos anti-patterns e improvements
-- ✅ Guia e script para criar novos clientes
+- ✅ Estrutura Monorepo
+- ✅ Prefixo `agpbi-` padronizado
 - ✅ 24 skills funcionais
 - ✅ 7 agentes especializados
-
-### Histórico
-- **v3.1.0** - Sistema SSOT, novos skills técnicos
-- **v3.0.0** - Framework limpo e focado
+- ✅ Script simplificado para novos clientes
 
 ---
 
-**Template pronto para produção! 🚀**
+**Framework pronto para produção! 🚀**
 
-Para criar um novo cliente: [docs/novo-cliente.md](docs/novo-cliente.md)
+Para criar um novo cliente: `./scripts/new-client.sh "Nome da Empresa"`
