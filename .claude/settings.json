@@ -1,4 +1,11 @@
 {
+  "version": "3.1.0",
+  "feedback": {
+    "enabled": true,
+    "collect_patterns": true,
+    "auto_retrospective": true,
+    "pattern_threshold": 3
+  },
   "hooks": {
     "pre-write": [
       ".claude/hooks/powerbi-quality-check.md",
@@ -10,6 +17,9 @@
     "pre-commit": [
       ".claude/hooks/commit-quality-check.md",
       ".claude/hooks/file-governance-check.md"
+    ],
+    "post-phase": [
+      ".claude/hooks/retrospectiva-trigger.md"
     ]
   },
   "permissions": {
@@ -41,13 +51,17 @@
     ".claude/skills/build",
     ".claude/skills/transcrever-reuniao",
     ".claude/skills/status",
+    ".claude/skills/retrospectiva",
     ".claude/skills/revisar-modelo",
     ".claude/skills/inicializar-pbip",
     ".claude/skills/criar-medida",
     ".claude/skills/criar-relacionamento",
     ".claude/skills/criar-visual",
+    ".claude/skills/criar-calculation-group",
     ".claude/skills/otimizar-query",
     ".claude/skills/configurar-rls",
+    ".claude/skills/configurar-incremental-refresh",
+    ".claude/skills/deploy-pbip",
     ".claude/skills/validar-modelo",
     ".claude/skills/verificar-estrutura",
     ".claude/skills/organizar-arquivos",
@@ -62,13 +76,21 @@
     ".claude/agents/validate-poc.md",
     ".claude/agents/build-implementer-v2.md",
     ".claude/agents/meeting-transcriber.md",
-    ".claude/agents/file-governance-agent.md"
+    ".claude/agents/file-governance-agent.md",
+    ".claude/agents/pattern-detector.md"
   ],
   "primaryAgent": "orchestrator",
   "governanceAgent": "file-governance-agent",
+  "learningAgent": "pattern-detector",
   "mcpServers": {
     "power-bi-modeling": {
       "enabled": true
     }
+  },
+  "context": {
+    "projectHistory": ".context",
+    "frameworkPatterns": ".claude/feedback/patterns",
+    "antiPatterns": ".claude/feedback/anti-patterns",
+    "improvements": ".claude/feedback/improvements"
   }
 }

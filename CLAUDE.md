@@ -241,6 +241,44 @@ Atividades devem ter:
 
 ---
 
+## Sistema de Retroalimentação e Aprendizado
+
+O framework AGPBI possui um sistema completo de feedback loop que garante melhoria contínua:
+
+### Feedback Loop
+```
+Uso → Coleta → Análise → Decisão → Ação → Melhoria
+```
+
+### Retrospectiva Obrigatória
+Ao final de cada fase (Vision/Validate/Build):
+- Use `/retrospectiva` para documentar aprendizados
+- Captura: o que funcionou, o que melhorar, lições, action items
+- Gera: arquivos de retrospectiva + sugestões para o framework
+
+### Pattern Detector
+Analisa projetos para identificar:
+- Padrões de sucesso (viram best practices)
+- Anti-padrões (evitar em futuros projetos)
+- Features faltantes (viram novos skills)
+
+### Contexto Acumulado
+```
+projeto/.context/
+├── lessons-learned.md    # Lições do projeto
+├── decisions.md          # Decisões tomadas
+└── patterns.md           # Padrões descobertos
+```
+
+### Evolução do Framework
+- CHANGELOG.md rastreia todas as mudanças
+- Versão semântica (Major.Minor.Patch)
+- Action items de retrospectivas alimentam melhorias
+
+**Princípio**: Cada projeto deve deixar o framework ligeiramente melhor do que foi encontrado.
+
+---
+
 ## Versionamento
 
 ### Padrão de Commits
