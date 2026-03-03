@@ -21,41 +21,19 @@ Vision (Descobrir) → Validate (Testar) → Build (Fazer)
 
 ---
 
-## 📁 Estrutura Simples
+## 📁 Estrutura de Branches
 
 ```
-agpbi/
-├── .claude/              # Framework (skills, agents) - NÃO MEXER
-├── 01-vision/            # Projetos em discovery
-│   ├── topmed-financeiro/
-│   └── empresa-x-vendas/
-├── 02-validate/          # Projetos em validação
-├── 03-build/             # Projetos em construção
-├── scripts/              # Scripts úteis
-├── clientes.md           # Lista de clientes
-└── README.md
+main     = Template puro (framework)
+topmed   = Cliente Topmed
+empresa-x = Cliente Empresa X
 ```
 
----
-
-## 🚀 Criar Novo Projeto
-
-```cmd
-scripts\new-project.bat topmed-financeiro "Dashboard Financeiro"
-```
-
-Cria:
-```
-01-vision/topmed-financeiro/
-02-validate/topmed-financeiro/
-03-build/topmed-financeiro/
-```
+**Sempre trabalhe no branch do cliente!**
 
 ---
 
 ## 💻 Usar o Framework
-
-**Sempre trabalhe na raiz do `agpbi`**
 
 | Comando | Para quê |
 |---------|---------|
@@ -63,46 +41,79 @@ Cria:
 | `/agpbi-validate` | Validar dados/POC |
 | `/agpbi-build` | Construir solução |
 | `/agpbi-status` | Ver status |
+| `/agpbi-push-framework` | **Push mudanças (auto-detecta)** |
 
-**Comandos técnicos:**
-- `/agpbi-inicializar-pbip` - Criar projeto Power BI
-- `/agpbi-criar-medida` - Criar medida DAX
-- `/agpbi-otimizar-query` - Otimizar Power Query
-- `/agpbi-deploy-pbip` - Deploy para Power BI Service
+---
+
+## 🚀 Como Trabalhar
+
+### 1. Criar Novo Cliente
+
+```bash
+git checkout main
+git checkout -b nome-cliente
+scripts\new-project.bat cliente-projeto "Descrição"
+```
+
+### 2. Criar Projeto
+
+```cmd
+scripts\new-project.bat topmed-financeiro "Dashboard Financeiro"
+```
+
+### 3. Fazer Mudanças e Push
+
+```bash
+# Opcao 1: Automático (RECOMENDADO)
+/agpbi-push-framework
+→ Framework detecta se é geral ou específica
+→ Confirma e executa tudo
+
+# Opcao 2: Manual
+git commit -am "feat: descricao"
+git push
+```
+
+---
+
+## 🌍 vs 🏢: Tipos de Mudança
+
+| GERAL (vai para main) | ESPECÍFICA (fica no branch) |
+|------------------------|------------------------------|
+| Nova skill `/agpbi-xxx` | Projeto `topmed-financeiro` |
+| Melhoria de agente | Dados do cliente Topmed |
+| Bug no framework | Customizações |
+| Documentação | APIs específicas |
+
+**O `/agpbi-push-framework` detecta automaticamente!**
 
 ---
 
 ## 📋 Fluxo Completo
 
 ```cmd
-# 1. Criar projeto
+# 1. Ir para branch do cliente
+git checkout topmed
+
+# 2. Criar projeto
 scripts\new-project.bat topmed-financeiro "Dashboard Financeiro"
 
-# 2. Abrir Claude na pasta agpbi
-
-# 3. Iniciar Vision
+# 3. Trabalhar normalmente
 /agpbi-vision
-# → Responder: cliente=topmed, projeto=financeiro
 
-# 4. Depois de Vision aprovado
-/agpbi-validate
-
-# 5. Depois de Validado
-/agpbi-build
-
-# 6. Ver status anytime
-/agpbi-status
+# 4. Quando terminar, push
+/agpbi-push-framework
 ```
 
 ---
 
-## ✅ É Só Isso!
+## 📖 Documentação
 
-- **Sempre na raiz do agpbi**
-- **Nome do projeto = cliente-projeto** (ex: topmed-financeiro)
-- **Framework centralizado** - skills e agents compartilhados
-- **Sem sync manual**
+- **`GESTAO-FRAMEWORK.md`** - Gestão de branches detalhada
+- **`clientes.md`** - Lista de clientes
 
 ---
 
 **Framework pronto! 🚀**
+
+Use `/agpbi-push-framework` para commits automatizados.
