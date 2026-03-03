@@ -1,5 +1,5 @@
 {
-  "version": "3.1.0",
+  "version": "3.2.0",
   "ssot": {
     "enabled": true,
     "strict_mode": true,
@@ -19,6 +19,11 @@
       ".claude/hooks/powerbi-quality-check.md",
       ".claude/hooks/documentation-validator.md"
     ],
+    "post-write": [
+      ".claude/hooks/ssot-validator.md"
+    ]
+  },
+  "hooksCustom": {
     "pre-bash": [
       ".claude/hooks/phase-gate-check.md"
     ],
@@ -28,9 +33,6 @@
     ],
     "post-phase": [
       ".claude/hooks/retrospectiva-trigger.md"
-    ],
-    "post-write": [
-      ".claude/hooks/ssot-validator.md"
     ]
   },
   "permissions": {
@@ -57,42 +59,43 @@
     }
   },
   "skills": [
-    ".claude/skills/vision",
-    ".claude/skills/validate",
-    ".claude/skills/build",
-    ".claude/skills/transcrever-reuniao",
-    ".claude/skills/status",
-    ".claude/skills/retrospectiva",
-    ".claude/skills/revisar-modelo",
-    ".claude/skills/inicializar-pbip",
-    ".claude/skills/criar-medida",
-    ".claude/skills/criar-relacionamento",
-    ".claude/skills/criar-visual",
-    ".claude/skills/criar-calculation-group",
-    ".claude/skills/otimizar-query",
-    ".claude/skills/configurar-rls",
-    ".claude/skills/configurar-incremental-refresh",
-    ".claude/skills/deploy-pbip",
-    ".claude/skills/validar-modelo",
-    ".claude/skills/verificar-estrutura",
-    ".claude/skills/organizar-arquivos",
-    ".claude/skills/limpar-temporarios",
-    ".claude/skills/resumir-documento",
-    ".claude/skills/auditoria-arquivos",
-    ".claude/skills/status-arquivos"
+    ".claude/skills/agpbi-vision",
+    ".claude/skills/agpbi-validate",
+    ".claude/skills/agpbi-build",
+    ".claude/skills/agpbi-transcrever-reuniao",
+    ".claude/skills/agpbi-status",
+    ".claude/skills/agpbi-retrospectiva",
+    ".claude/skills/agpbi-revisar-modelo",
+    ".claude/skills/agpbi-inicializar-pbip",
+    ".claude/skills/agpbi-criar-medida",
+    ".claude/skills/agpbi-criar-relacionamento",
+    ".claude/skills/agpbi-criar-visual",
+    ".claude/skills/agpbi-criar-calculation-group",
+    ".claude/skills/agpbi-otimizar-query",
+    ".claude/skills/agpbi-configurar-rls",
+    ".claude/skills/agpbi-configurar-incremental-refresh",
+    ".claude/skills/agpbi-deploy-pbip",
+    ".claude/skills/agpbi-validar-modelo",
+    ".claude/skills/agpbi-verificar-estrutura",
+    ".claude/skills/agpbi-organizar-arquivos",
+    ".claude/skills/agpbi-limpar-temporarios",
+    ".claude/skills/agpbi-resumir-documento",
+    ".claude/skills/agpbi-auditoria-arquivos",
+    ".claude/skills/agpbi-status-arquivos",
+    ".claude/skills/agpbi-powerbi-modeling"
   ],
   "agents": [
-    ".claude/agents/orchestrator.md",
-    ".claude/agents/vision-discovery.md",
-    ".claude/agents/validate-poc.md",
-    ".claude/agents/build-implementer-v2.md",
-    ".claude/agents/meeting-transcriber.md",
-    ".claude/agents/file-governance-agent.md",
-    ".claude/agents/pattern-detector.md"
+    ".claude/agents/agpbi-orchestrator.md",
+    ".claude/agents/agpbi-vision-discovery.md",
+    ".claude/agents/agpbi-validate-poc.md",
+    ".claude/agents/agpbi-build-implementer-v2.md",
+    ".claude/agents/agpbi-meeting-transcriber.md",
+    ".claude/agents/agpbi-file-governance-agent.md",
+    ".claude/agents/agpbi-pattern-detector.md"
   ],
-  "primaryAgent": "orchestrator",
-  "governanceAgent": "file-governance-agent",
-  "learningAgent": "pattern-detector",
+  "primaryAgent": "agpbi-orchestrator",
+  "governanceAgent": "agpbi-file-governance-agent",
+  "learningAgent": "agpbi-pattern-detector",
   "mcpServers": {
     "power-bi-modeling": {
       "enabled": true

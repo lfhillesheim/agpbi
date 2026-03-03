@@ -229,7 +229,7 @@ O agente vai:
 
 ## Gestão de Atividades
 
-Use `/status` para ver o status atual do projeto.
+Use `/agpbi-status` para ver o status atual do projeto.
 
 Atividades devem ter:
 - **Título**: Claro e específico
@@ -252,7 +252,7 @@ Uso → Coleta → Análise → Decisão → Ação → Melhoria
 
 ### Retrospectiva Obrigatória
 Ao final de cada fase (Vision/Validate/Build):
-- Use `/retrospectiva` para documentar aprendizados
+- Use `/agpbi-retrospectiva` para documentar aprendizados
 - Captura: o que funcionou, o que melhorar, lições, action items
 - Gera: arquivos de retrospectiva + sugestões para o framework
 
@@ -442,28 +442,32 @@ Todo código deve ser reviewado:
 ## Comandos Principais
 
 ### Metodologia
-- `/vision` - Iniciar etapa Vision
-- `/validate` - Iniciar etapa Validate
-- `/build` - Iniciar etapa Build
-- `/status` - Ver status do projeto
+- `/agpbi-vision` - Iniciar etapa Vision
+- `/agpbi-validate` - Iniciar etapa Validate
+- `/agpbi-build` - Iniciar etapa Build
+- `/agpbi-status` - Ver status do projeto
+- `/agpbi-retrospectiva` - Retrospectiva ao final de fase
 
 ### Técnico Power BI
-- `/inicializar-pbip` - Criar estrutura PBIP
-- `/criar-medida` - Criar medida DAX
-- `/criar-relacionamento` - Criar relacionamento
-- `/criar-calculation-group` - Criar calculation group (NOVO)
-- `/configurar-rls` - Configurar RLS
-- `/configurar-incremental-refresh` - Configurar incremental refresh (NOVO)
-- `/otimizar-query` - Otimizar Power Query (query folding)
-- `/deploy-pbip` - Deploy para Power BI Service (NOVO)
+- `/agpbi-inicializar-pbip` - Criar estrutura PBIP
+- `/agpbi-criar-medida` - Criar medida DAX
+- `/agpbi-criar-relacionamento` - Criar relacionamento
+- `/agpbi-criar-calculation-group` - Criar calculation group
+- `/agpbi-configurar-rls` - Configurar RLS
+- `/agpbi-configurar-incremental-refresh` - Configurar incremental refresh
+- `/agpbi-otimizar-query` - Otimizar Power Query (query folding)
+- `/agpbi-deploy-pbip` - Deploy para Power BI Service
 
 ### Governança
-- `/transcrever-reuniao` - Processar transcrição
-- `/revisar-modelo` - Revisar modelo Power BI
-- `/validar-modelo` - Validar modelo completo
-- `/verificar-estrutura` - Validar estrutura de arquivos
-- `/organizar-arquivos` - Organizar projeto
-- `/auditoria-arquivos` - Auditoria completa
+- `/agpbi-transcrever-reuniao` - Processar transcrição
+- `/agpbi-revisar-modelo` - Revisar modelo Power BI
+- `/agpbi-validar-modelo` - Validar modelo completo
+- `/agpbi-verificar-estrutura` - Validar estrutura de arquivos
+- `/agpbi-organizar-arquivos` - Organizar projeto
+- `/agpbi-auditoria-arquivos` - Auditoria completa
+- `/agpbi-status-arquivos` - Status da organização de arquivos
+- `/agpbi-limpar-temporarios` - Limpar arquivos temporários
+- `/agpbi-resumir-documento` - Resumir documento
 
 ---
 
@@ -477,8 +481,8 @@ Nossa consultoria preza por qualidade, confiança e transparência. Errar rápid
 
 ---
 
-**Última atualização**: 2026-03-02
-**Versão**: 3.1.0
+**Última atualização**: 2026-03-03
+**Versão**: 3.2.0
 **Framework**: AGPBI
 
 ---
@@ -494,9 +498,9 @@ Nossa consultoria preza por qualidade, confiança e transparência. Errar rápid
 - **DATA-LINEAGE.md** - Rastreabilidade de dados
 
 ### Novos Skills
-- `/configurar-incremental-refresh` - Configurar incremental refresh
-- `/criar-calculation-group` - Criar calculation group
-- `/deploy-pbip` - Deploy para Power BI Service
+- `/agpbi-configurar-incremental-refresh` - Configurar incremental refresh
+- `/agpbi-criar-calculation-group` - Criar calculation group
+- `/agpbi-deploy-pbip` - Deploy para Power BI Service
 
 ### Sistema SSOT (NOVO)
 - **decisions.log** - Registro de todas as decisões
