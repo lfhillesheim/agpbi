@@ -1,5 +1,13 @@
 {
   "version": "3.1.0",
+  "ssot": {
+    "enabled": true,
+    "strict_mode": true,
+    "auto_rebuild": true,
+    "duplicate_check": "strict",
+    "context_path": ".context",
+    "framework_path": ".framework"
+  },
   "feedback": {
     "enabled": true,
     "collect_patterns": true,
@@ -20,6 +28,9 @@
     ],
     "post-phase": [
       ".claude/hooks/retrospectiva-trigger.md"
+    ],
+    "post-write": [
+      ".claude/hooks/ssot-validator.md"
     ]
   },
   "permissions": {
@@ -89,8 +100,16 @@
   },
   "context": {
     "projectHistory": ".context",
-    "frameworkPatterns": ".claude/feedback/patterns",
+    "frameworkPatterns": ".framework/index/patterns.index.md",
     "antiPatterns": ".claude/feedback/anti-patterns",
-    "improvements": ".claude/feedback/improvements"
+    "improvements": ".claude/feedback/improvements",
+    "decisionsLog": ".context/decisions.log",
+    "artifactsLog": ".context/artifacts.log",
+    "statusLog": ".context/status.log",
+    "changesLog": ".context/changes.log",
+    "contextIndex": ".context/index.json"
+  },
+  "templates": {
+    "contextStructure": "templates/.context/.structure/template.md"
   }
 }

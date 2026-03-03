@@ -279,6 +279,52 @@ projeto/.context/
 
 ---
 
+## Single Source of Truth (SSOT)
+
+Para evitar perda de dados e duplicações, o framework usa um sistema de SSOT:
+
+### Onde Cada Coisa Deve Ficar
+
+| Tipo de Dado | Onde Salvar | Como Consultar |
+|-------------|-------------|----------------|
+| Decisões tomadas | `.context/decisions.log` | Via `index.json` |
+| Mudanças de status | `.context/status.log` | Via `index.json` |
+| Artefatos criados | `.context/artifacts.log` | Via `index.json` |
+| Modificações | `.context/changes.log` | Via `index.json` |
+| Lições aprendidas | `.context/lessons-learned.md` | Leitura direta |
+
+### Regras de Ouro
+
+1. **Append-Only**: Nunca modificar entradas de log diretamente
+2. **UUIDs**: Usar IDs únicos para referências
+3. **Index First**: Sempre consultar `index.json` antes de criar
+4. **Update, Don't Duplicate**: Se existe, atualize em vez de criar novo
+
+### Estrutura .context/
+
+```
+.context/
+├── decisions.log      # Todas as decisões (append-only)
+├── status.log         # Mudanças de status (append-only)
+├── artifacts.log      # Artefatos criados (append-only)
+├── changes.log        # Modificações (append-only)
+├── index.json         # Índice rápido (auto-atualizado)
+└── lessons-learned.md # Síntese humana
+```
+
+### Validação Automática
+
+```yaml
+Hooks validam:
+  - Antes de escrever: Verifica duplicatas
+  - Depois de escrever: Confirma índice atualizado
+  - Em background: Detecta corrupção
+```
+
+**Documentação**: Ver `.claude/ssot/SCHEMA.md` para detalhes completos.
+
+---
+
 ## Versionamento
 
 ### Padrão de Commits
@@ -451,6 +497,14 @@ Nossa consultoria preza por qualidade, confiança e transparência. Errar rápid
 - `/configurar-incremental-refresh` - Configurar incremental refresh
 - `/criar-calculation-group` - Criar calculation group
 - `/deploy-pbip` - Deploy para Power BI Service
+
+### Sistema SSOT (NOVO)
+- **decisions.log** - Registro de todas as decisões
+- **status.log** - Audit trail de mudanças de status
+- **artifacts.log** - Catálogo de artefatos criados
+- **changes.log** - Histórico de modificações
+- **index.json** - Índice rápido para consultas
+- **Anti-duplicação** - Validação automática
 
 ### Regras Atualizadas
 - **Auto Date/Time**: Desabilitar SEMPRE (não só DirectQuery)
