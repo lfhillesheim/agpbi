@@ -1,5 +1,5 @@
 ---
-name: auditoria-arquivos
+name: agpbi-auditoria-arquivos
 description: Complete audit of file organization, structure, and quality
 ---
 

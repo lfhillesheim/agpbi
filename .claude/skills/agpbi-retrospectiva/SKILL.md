@@ -1,5 +1,5 @@
 ---
-name: retrospectiva
+name: agpbi-retrospectiva
 description: Run retrospective at phase end to collect lessons learned and improve the framework
 parameters:
   - name: phase

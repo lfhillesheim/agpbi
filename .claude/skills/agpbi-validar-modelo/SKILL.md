@@ -1,5 +1,5 @@
 ---
-name: validar-modelo
+name: agpbi-validar-modelo
 description: Validate Power BI model for quality and best practices
 ---
 

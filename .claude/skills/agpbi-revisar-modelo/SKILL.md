@@ -1,5 +1,5 @@
 ---
-name: revisar-modelo
+name: agpbi-revisar-modelo
 description: Review Power BI model for best practices, performance, and quality
 ---
 

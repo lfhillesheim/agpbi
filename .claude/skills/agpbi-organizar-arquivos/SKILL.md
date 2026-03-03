@@ -1,5 +1,5 @@
 ---
-name: organizar-arquivos
+name: agpbi-organizar-arquivos
 description: Automatically organize misplaced files into correct locations
 parameters:
   - name: auto_confirm

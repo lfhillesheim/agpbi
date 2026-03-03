@@ -1,5 +1,5 @@
 ---
-name: configurar-rls
+name: agpbi-configurar-rls
 description: Configure Row-Level Security roles
 parameters:
   - name: role_name

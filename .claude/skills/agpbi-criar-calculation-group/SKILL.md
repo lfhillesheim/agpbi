@@ -1,5 +1,5 @@
 ---
-name: criar-calculation-group
+name: agpbi-criar-calculation-group
 description: Create a calculation group for reusable DAX calculations (time intelligence, scenarios, etc.)
 parameters:
   - name: group_name

@@ -1,5 +1,5 @@
 ---
-name: status
+name: agpbi-status
 description: Check overall project status and progress
 ---
 

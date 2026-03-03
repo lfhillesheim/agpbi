@@ -1,5 +1,5 @@
 ---
-name: status-arquivos
+name: agpbi-status-arquivos
 description: Quick status check of file organization
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: inicializar-pbip
+name: agpbi-inicializar-pbip
 description: Initialize a new PBIP project with proper folder structure
 parameters:
   - name: project_name

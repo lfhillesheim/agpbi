@@ -1,5 +1,5 @@
 ---
-name: resumir-documento
+name: agpbi-resumir-documento
 description: Read, interpret, and summarize a document
 parameters:
   - name: file_path

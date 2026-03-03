@@ -1,5 +1,5 @@
 ---
-name: vision
+name: agpbi-vision
 description: Run the Vision stage - discovery, scope definition, and stakeholder mapping
 parameters:
   - name: client_name

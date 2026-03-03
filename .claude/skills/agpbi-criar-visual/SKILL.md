@@ -1,5 +1,5 @@
 ---
-name: criar-visual
+name: agpbi-criar-visual
 description: Create Power BI visual in report
 parameters:
   - name: visual_type

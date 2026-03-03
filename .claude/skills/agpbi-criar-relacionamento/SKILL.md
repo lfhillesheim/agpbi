@@ -1,5 +1,5 @@
 ---
-name: criar-relacionamento
+name: agpbi-criar-relacionamento
 description: Create table relationship following Star Schema
 parameters:
   - name: from_table

@@ -1,5 +1,5 @@
 ---
-name: configurar-incremental-refresh
+name: agpbi-configurar-incremental-refresh
 description: Configure incremental refresh for Power BI models to optimize large dataset refreshes
 parameters:
   - name: table_name

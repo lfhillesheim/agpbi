@@ -1,5 +1,5 @@
 ---
-name: limpar-temporarios
+name: agpbi-limpar-temporarios
 description: Clean up temporary and useless files
 parameters:
   - name: dry_run

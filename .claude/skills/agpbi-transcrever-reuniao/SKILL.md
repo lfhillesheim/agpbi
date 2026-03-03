@@ -1,5 +1,5 @@
 ---
-name: transcrever-reuniao
+name: agpbi-transcrever-reuniao
 description: Process meeting transcriptions and extract actionable insights
 parameters:
   - name: date

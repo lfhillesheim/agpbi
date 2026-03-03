@@ -1,5 +1,5 @@
 ---
-name: criar-medida
+name: agpbi-criar-medida
 description: Create a DAX measure with proper formatting and documentation
 parameters:
   - name: table_name

@@ -1,5 +1,5 @@
 ---
-name: validate
+name: agpbi-validate
 description: Run the Validate stage - rapid POCs, data exploration, and hypothesis validation
 parameters:
   - name: hypothesis

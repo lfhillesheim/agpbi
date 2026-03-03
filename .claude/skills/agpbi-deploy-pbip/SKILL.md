@@ -1,5 +1,5 @@
 ---
-name: deploy-pbip
+name: agpbi-deploy-pbip
 description: Deploy Power BI PBIP project to Power BI Service using PowerShell and REST API
 parameters:
   - name: workspace_name

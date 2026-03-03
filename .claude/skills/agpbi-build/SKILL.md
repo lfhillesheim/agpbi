@@ -1,5 +1,5 @@
 ---
-name: build
+name: agpbi-build
 description: Run the Build stage - implement Power BI solution with best practices
 parameters:
   - name: project_name

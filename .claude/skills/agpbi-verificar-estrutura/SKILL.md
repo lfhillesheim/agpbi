@@ -1,5 +1,5 @@
 ---
-name: verificar-estrutura
+name: agpbi-verificar-estrutura
 description: Verify all files are in correct locations following AGPBI structure
 ---
 

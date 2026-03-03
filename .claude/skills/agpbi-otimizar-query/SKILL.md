@@ -1,5 +1,5 @@
 ---
-name: otimizar-query
+name: agpbi-otimizar-query
 description: Optimize Power Query M for query folding
 parameters:
   - name: query_name
