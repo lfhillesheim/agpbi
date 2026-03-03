@@ -1,219 +1,186 @@
 # AGPBI Framework
 
 > Framework especializado para consultoria de dados com Power BI
+> Template principal para criação de repositórios de cliente
 
-**Versão**: 3.0 (Final Clean Edition)
-**Última atualização**: 2026-02-27
+**Versão**: 3.2.0
+**Última atualização**: 2026-03-03
 **Status**: ✅ Produção
 
 ---
 
-## 🎯 Sobre
+## 🎯 O que é AGPBI?
 
-O AGPBI Framework é um conjunto estruturado de agentes, skills, templates e processos projetados especificamente para consultorias de dados que trabalham com Power BI.
+O **AGPBI** é um framework completo com agentes, skills e templates projetados especificamente para consultorias de dados Power BI.
 
-### Nossa Filosofia
+### Metodologia: Vision → Validate → Build
 
-- **Agilidade**: Errar rápido e corrigir mais rápido
-- **Simplicidade**: Processos diretos, documentação clara
-- **Qualidade**: Entregáveis robustos e escaláveis
-- **Valor**: Foco em resultados de negócio
-
----
-
-## 🔄 Metodologia Vision-Validate-Build
-
-Nossa metodologia em 3 etapas garante entregas de qualidade:
-
-### Vision (🔭 Discovery)
-Discovery rápido e eficiente para entender profundamente o problema.
-
-- Entender o processo, causa raiz, onde dói
-- Identificar KPIs e stakeholders
-- Mapear dados e sistemas
-- Definir escopo claro
-
-### Validate (✓ POCs)
-POCs rápidas para validar hipóteses antes de construir.
-
-- Conectar nas fontes de dados
-- Explorar e validar números
-- Criar wireframe do dashboard
-- Testar viabilidade técnica
-
-### Build (🔨 Construção)
-Construção escalável e técnica do produto final.
-
-- Modelagem dimensional (Star Schema)
-- ETL e Power Query
-- DAX e medidas
-- Visuais e storytelling
-- Documentação completa
+| Fase | Objetivo | Entrega |
+|------|----------|---------|
+| **🔭 Vision** | Discovery rápido e escopo claro | Contexto, stakeholders, hipótese |
+| **✓ Validate** | POCs e validação de dados | Wireframe, números validados |
+| **🔨 Build** | Construção técnica escalável | PBIP, docs, deploy |
 
 ---
 
-## 📁 Estrutura do Repositório
+## 🚀 Criar Novo Repositório de Cliente
+
+### Opção 1: Script Automatizado (Recomendado)
+
+```bash
+# Clonar este template primeiro
+git clone https://github.com/lfhillesheim/agpbi.git
+cd agpbi
+
+# Executar script
+./scripts/new-client.sh "Nome do Cliente"
+```
+
+### Opção 2: GitHub CLI
+
+```bash
+gh repo create cliente-nome --private --clone
+cd cliente-nome
+git remote add template https://github.com/lfhillesheim/agpbi.git
+git fetch template
+git merge template/main --allow-unrelated-histories -m "feat: Initial from AGPBI"
+git remote remove template
+git push -u origin main
+```
+
+### Opção 3: GitHub UI
+
+1. Acesse https://github.com/lfhillesheim/agpbi
+2. Clique em **"Use this template"** → **"Create a new repository"**
+3. Nomeie como `cliente-nome` e marque como **Private**
+
+> 📖 **Guia completo**: [docs/novo-cliente.md](docs/novo-cliente.md)
+
+---
+
+## 📁 Estrutura do Repositório do Cliente
 
 ```
-agpbi/
-├── .claude/
-│   ├── agents/                 # 6 Agentes especializados
-│   ├── skills/                 # 20 Workflows e comandos
-│   ├── hooks/                  # 5 Automação e qualidade
-│   └── settings.json           # Configurações
-│
-├── templates/                  # Templates para novos projetos
-│   └── cliente/
-│       ├── 00-contexto/        # Contexto permanente do cliente
-│       ├── 01-vision/          # Documentos Vision
-│       ├── 02-validate/        # Documentos Validate
-│       ├── 03-build/           # Documentos Build
-│       ├── 04-reunioes/        # Transcrições e resumos
-│       ├── 05-atividades/      # Gestão de tarefas
-│       └── 06-decisoes/        # Decision points
-│
-├── docs/                       # Documentação do framework
-│   ├── metodologia.md          # Metodologia detalhada
-│   ├── guia-inicio-rapido.md   # Comece aqui
-│   ├── melhores-praticas.md    # Boas práticas
-│   ├── orquestracao.md         # Como orquestração funciona
-│   └── file-governance.md      # Governança de arquivos
-│
-├── CLAUDE.md                   # Constituição do projeto
-├── README.md                   # Este arquivo
-└── RELATORIO-FUNCIONALIDADE.md # Validação completa
+cliente-nome/
+├── .claude/              # Config AGPBI (não modificar)
+├── 00-contexto/          # Contexto permanente do cliente
+├── 01-vision/            # Descobertas e escopo
+├── 02-validate/          # Validações e POCs
+├── 03-build/             # Implementação PBIP
+│   └── projects/         # Projetos Power BI
+├── 04-reunioes/          # Transcrições e resumos
+├── 05-atividades/        # Gestão de tarefas
+├── 06-decisoes/          # Decisões e aprovações
+├── .context/             # SSOT do projeto
+├── CLAUDE.md             # Documentação principal
+└── README.md             # Overview do cliente
 ```
 
 ---
 
-## 🚀 Para Começar
-
-### Instalação
-
-1. Clone este repositório
-2. Configure o Claude Code
-3. Leia o CLAUDE.md
-4. Copie templates/ para um novo projeto cliente
-
-### Documentação
-
-- [CLAUDE.md](CLAUDE.md) - Constituição completa do framework
-- [Guia de Início Rápido](docs/guia-inicio-rapido.md) - Comece aqui
-- [Metodologia Completa](docs/metodologia.md) - Detalhes de Vision-Validate-Build
-- [Melhores Práticas](docs/melhores-praticas.md) - Boas práticas Power BI e consultoria
-
----
-
-## 💻 Comandos Principais
+## 💻 Comandos Disponíveis (todos com prefixo `/agpbi-`)
 
 ### Metodologia
+| Comando | Descrição |
+|---------|-----------|
+| `/agpbi-vision` | Iniciar fase Vision |
+| `/agpbi-validate` | Iniciar fase Validate |
+| `/agpbi-build` | Iniciar fase Build |
+| `/agpbi-status` | Ver status do projeto |
+| `/agpbi-retrospectiva` | Retrospectiva ao final de fase |
 
-- `/vision` - Iniciar fase Vision
-- `/validate` - Iniciar fase Validate
-- `/build` - Iniciar fase Build
-- `/status` - Ver status do projeto
-
-### Técnicos
-
-- `/revisar-modelo` - Revisar modelo Power BI
-- `/inicializar-pbip` - Criar estrutura PBIP
-- `/criar-medida` - Criar medida DAX
-- `/otimizar-query` - Otimizar Power Query
+### Técnico Power BI
+| Comando | Descrição |
+|---------|-----------|
+| `/agpbi-inicializar-pbip` | Criar estrutura PBIP |
+| `/agpbi-criar-medida` | Criar medida DAX |
+| `/agpbi-criar-relacionamento` | Criar relacionamento |
+| `/agpbi-criar-calculation-group` | Criar calculation group |
+| `/agpbi-configurar-rls` | Configurar RLS |
+| `/agpbi-configurar-incremental-refresh` | Configurar incremental refresh |
+| `/agpbi-otimizar-query` | Otimizar Power Query |
+| `/agpbi-deploy-pbip` | Deploy para Power BI Service |
+| `/agpbi-powerbi-modeling` | Assistente de modelagem Power BI |
 
 ### Governança
-
-- `/auditoria-arquivos` - Auditoria completa
-- `/organizar-arquivos` - Organizar tudo
-- `/limpar-temporarios` - Limpar projeto
-- `/status-arquivos` - Status rápido
-
----
-
-## 🎓 Recursos de Aprendizado
-
-### Internos
-
-- Metodologia Vision-Validate-Build
-- Templates de documentação
-- Guias de melhores práticas
-- Exemplos de código DAX e M
-
-### Externos
-
-- [Best Practices Claude Code](https://code.claude.com/docs/en/best-practices)
-- [Power BI Modeling Skill](https://skills.sh/github/awesome-copilot/powerbi-modeling)
-- [Microsoft Learn Power BI](https://learn.microsoft.com/power-bi/)
+| Comando | Descrição |
+|---------|-----------|
+| `/agpbi-transcrever-reuniao` | Processar transcrição |
+| `/agpbi-revisar-modelo` | Revisar modelo Power BI |
+| `/agpbi-validar-modelo` | Validar modelo completo |
+| `/agpbi-verificar-estrutura` | Validar estrutura de arquivos |
+| `/agpbi-organizar-arquivos` | Organizar projeto |
+| `/agpbi-auditoria-arquivos` | Auditoria completa |
+| `/agpbi-status-arquivos` | Status da organização |
+| `/agpbi-limpar-temporarios` | Limpar arquivos temporários |
+| `/agpbi-resumir-documento` | Resumir documento |
 
 ---
 
-## 🛠️ Componentes
+## 🔄 Sincronizar com Template
 
-### Agentes (6)
+Quando o AGPBI for atualizado:
 
-1. **Orchestrator** - Coordenador principal
-2. **Vision Discovery** - Discovery e escopo
-3. **Validate POC** - Validações e POCs
-4. **Build Implementer v2** - Desenvolvedor técnico PBIP
-5. **Meeting Transcriber** - Transcrições de reunião
-6. **File Governance** - Governança de arquivos
-
-### Skills (20)
-
-**Metodologia (6)**: vision, validate, build, status, transcrever-reuniao, revisar-modelo
-
-**Técnicas Power BI (7)**: inicializar-pbip, criar-medida, criar-relacionamento, criar-visual, otimizar-query, configurar-rls, validar-modelo
-
-**Governança (6)**: verificar-estrutura, organizar-arquivos, limpar-temporarios, resumir-documento, auditoria-arquivos, status-arquivos
-
-**Power BI Modeling (1)**: powerbi-modeling + 5 referências
-
-### Hooks (5)
-
-- phase-gate-check - Controle de transição de fases
-- commit-quality-check - Qualidade de commits
-- file-governance-check - Governança de arquivos
-- powerbi-quality-check - Validação de modelos
-- documentation-validator - Validação de documentação
+```bash
+git remote add template https://github.com/lfhillesheim/agpbi.git
+git fetch template
+git log HEAD..template/main --oneline  # ver mudanças
+git merge template/main -m "chore: Sync with AGPBI template vX.X.X"
+git push
+```
 
 ---
 
-## 📖 Como Começar
+## 📖 Documentação
 
-1. Leia [CLAUDE.md](CLAUDE.md) para entender a metodologia
-2. Siga o [Guia de Início Rápido](docs/guia-inicio-rapido.md)
-3. Explore os templates em `templates/cliente/`
-4. Comece seu primeiro projeto com `/vision`
+| Arquivo | Descrição |
+|---------|-----------|
+| [CLAUDE.md](CLAUDE.md) | Constituição completa do framework |
+| [docs/novo-cliente.md](docs/novo-cliente.md) | Criar novo repositório de cliente |
+| [docs/guia-inicio-rapido.md](docs/guia-inicio-rapido.md) | Comece aqui |
+| [docs/metodologia.md](docs/metodologia.md) | Vision-Validate-Build detalhado |
+| [docs/melhores-praticas.md](docs/melhores-praticas.md) | Boas práticas Power BI |
 
 ---
 
-## 🤝 Contribuindo
+## 🛠️ Componentes do Framework
 
-Este é um framework interno especializado.
+### Agentes (7)
+- **agpbi-orchestrator** - Coordenador principal
+- **agpbi-vision-discovery** - Discovery e escopo
+- **agpbi-validate-poc** - Validações e POCs
+- **agpbi-build-implementer-v2** - Desenvolvedor PBIP
+- **agpbi-meeting-transcriber** - Transcrições de reunião
+- **agpbi-file-governance-agent** - Governança de arquivos
+- **agpbi-pattern-detector** - Detecta padrões de sucesso
 
-Para sugerir melhorias:
-- Abra uma issue no repositório
-- Entre em contato com o time
-- Contribua com melhorias
+### Skills (24)
+- **Metodologia** (5): vision, validate, build, status, retrospectiva
+- **Técnicos** (9): pbip, medida, relacionamento, visual, calc-group, RLS, incremental, query, deploy
+- **Governança** (9): transcrição, revisão, validação, estrutura, organização, auditoria, status-arquivos, limpar, resumir
+- **Modeling** (1): powerbi-modeling + 11 referências
+
+### Hooks (7)
+- **Nativos**: pre-write, post-write
+- **Custom**: pre-bash, pre-commit, post-phase
 
 ---
 
 ## 📊 Versão
 
-**Versão**: 3.0 (Final Clean Edition)
-**Data**: 2026-02-27
-**Status**: ✅ Produção
+### v3.2.0 (2026-03-03)
+- ✅ Prefixo `agpbi-` padronizado em todos comandos
+- ✅ Criados arquivos anti-patterns e improvements
+- ✅ Guia e script para criar novos clientes
+- ✅ 24 skills funcionais
+- ✅ 7 agentes especializados
 
 ### Histórico
-
-- **v3.0** (2026-02-27) - Framework limpo e focado em Power BI
-  - Removido todo conteúdo BMAD
-  - 6 agentes especializados
-  - 20 skills funcionais
-  - 5 hooks de qualidade
-  - Zero dependências externas
+- **v3.1.0** - Sistema SSOT, novos skills técnicos
+- **v3.0.0** - Framework limpo e focado
 
 ---
 
-**Framework pronto para produção! 🚀**
+**Template pronto para produção! 🚀**
 
-Para começar: [Guia de Início Rápido](docs/guia-inicio-rapido.md)
+Para criar um novo cliente: [docs/novo-cliente.md](docs/novo-cliente.md)
