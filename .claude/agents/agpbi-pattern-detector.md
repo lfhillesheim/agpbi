@@ -1,3 +1,8 @@
+---
+name: agpbi-pattern-detector
+description: Identifies patterns across projects to improve the AGPBI framework through continuous learning
+---
+
 # Pattern Detector Agent
 
 ## Purpose

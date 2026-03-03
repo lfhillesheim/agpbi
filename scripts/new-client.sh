@@ -71,13 +71,72 @@ echo -e "${YELLOW}7. Personalizando CLAUDE.md...${NC}"
 sed -i "s/# AGPBI Framework/# $CLIENT_NAME - AGPBI Framework/" CLAUDE.md
 sed -i "/^## Sobre Nossa Consultoria/a\\n**Cliente**: $CLIENT_NAME\\n**Setor**: [Preencher]\\n**Início**: $(date +%Y-%m-%d)\\n" CLAUDE.md
 
-# 10. Commit inicial
-echo -e "${YELLOW}8. Commit inicial...${NC}"
+# 10. Remover hooks do settings.json (não suportado no Claude Code 2.1+)
+echo -e "${YELLOW}8. Ajustando settings.json...${NC}"
+if [ -f ".claude/settings.json" ]; then
+    # Criar settings.json limpo sem hooks
+    cat > .claude/settings.json << 'EOF'
+{
+  "permissions": {
+    "allowlist": {
+      "bash": [
+        "git status",
+        "git diff",
+        "git log",
+        "git add",
+        "git commit",
+        "git push",
+        "git pull",
+        "git checkout",
+        "git branch",
+        "ls",
+        "mkdir",
+        "cat"
+      ],
+      "file": {
+        "read": true,
+        "write": true,
+        "edit": true
+      }
+    }
+  },
+  "skills": [
+    ".claude/skills/agpbi-vision",
+    ".claude/skills/agpbi-validate",
+    ".claude/skills/agpbi-build",
+    ".claude/skills/agpbi-transcrever-reuniao",
+    ".claude/skills/agpbi-status",
+    ".claude/skills/agpbi-retrospectiva",
+    ".claude/skills/agpbi-revisar-modelo",
+    ".claude/skills/agpbi-inicializar-pbip",
+    ".claude/skills/agpbi-criar-medida",
+    ".claude/skills/agpbi-criar-relacionamento",
+    ".claude/skills/agpbi-criar-visual",
+    ".claude/skills/agpbi-criar-calculation-group",
+    ".claude/skills/agpbi-otimizar-query",
+    ".claude/skills/agpbi-configurar-rls",
+    ".claude/skills/agpbi-configurar-incremental-refresh",
+    ".claude/skills/agpbi-deploy-pbip",
+    ".claude/skills/agpbi-validar-modelo",
+    ".claude/skills/agpbi-verificar-estrutura",
+    ".claude/skills/agpbi-organizar-arquivos",
+    ".claude/skills/agpbi-limpar-temporarios",
+    ".claude/skills/agpbi-resumir-documento",
+    ".claude/skills/agpbi-auditoria-arquivos",
+    ".claude/skills/agpbi-status-arquivos",
+    ".claude/skills/agpbi-powerbi-modeling"
+  ]
+}
+EOF
+fi
+
+# 11. Commit inicial
+echo -e "${YELLOW}9. Commit inicial...${NC}"
 git add .
 git commit -m "feat: Initialize $CLIENT_NAME repository from AGPBI template" || true
 
-# 11. Push
-echo -e "${YELLOW}9. Push para remoto...${NC}"
+# 12. Push
+echo -e "${YELLOW}10. Push para remoto...${NC}"
 git push -u origin main
 
 echo ""

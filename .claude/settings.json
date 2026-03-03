@@ -1,40 +1,4 @@
 {
-  "version": "3.2.0",
-  "ssot": {
-    "enabled": true,
-    "strict_mode": true,
-    "auto_rebuild": true,
-    "duplicate_check": "strict",
-    "context_path": ".context",
-    "framework_path": ".framework"
-  },
-  "feedback": {
-    "enabled": true,
-    "collect_patterns": true,
-    "auto_retrospective": true,
-    "pattern_threshold": 3
-  },
-  "hooks": {
-    "pre-write": [
-      ".claude/hooks/powerbi-quality-check.md",
-      ".claude/hooks/documentation-validator.md"
-    ],
-    "post-write": [
-      ".claude/hooks/ssot-validator.md"
-    ]
-  },
-  "hooksCustom": {
-    "pre-bash": [
-      ".claude/hooks/phase-gate-check.md"
-    ],
-    "pre-commit": [
-      ".claude/hooks/commit-quality-check.md",
-      ".claude/hooks/file-governance-check.md"
-    ],
-    "post-phase": [
-      ".claude/hooks/retrospectiva-trigger.md"
-    ]
-  },
   "permissions": {
     "allowlist": {
       "bash": [
@@ -83,36 +47,5 @@
     ".claude/skills/agpbi-auditoria-arquivos",
     ".claude/skills/agpbi-status-arquivos",
     ".claude/skills/agpbi-powerbi-modeling"
-  ],
-  "agents": [
-    ".claude/agents/agpbi-orchestrator.md",
-    ".claude/agents/agpbi-vision-discovery.md",
-    ".claude/agents/agpbi-validate-poc.md",
-    ".claude/agents/agpbi-build-implementer-v2.md",
-    ".claude/agents/agpbi-meeting-transcriber.md",
-    ".claude/agents/agpbi-file-governance-agent.md",
-    ".claude/agents/agpbi-pattern-detector.md"
-  ],
-  "primaryAgent": "agpbi-orchestrator",
-  "governanceAgent": "agpbi-file-governance-agent",
-  "learningAgent": "agpbi-pattern-detector",
-  "mcpServers": {
-    "power-bi-modeling": {
-      "enabled": true
-    }
-  },
-  "context": {
-    "projectHistory": ".context",
-    "frameworkPatterns": ".framework/index/patterns.index.md",
-    "antiPatterns": ".claude/feedback/anti-patterns",
-    "improvements": ".claude/feedback/improvements",
-    "decisionsLog": ".context/decisions.log",
-    "artifactsLog": ".context/artifacts.log",
-    "statusLog": ".context/status.log",
-    "changesLog": ".context/changes.log",
-    "contextIndex": ".context/index.json"
-  },
-  "templates": {
-    "contextStructure": "templates/.context/.structure/template.md"
-  }
+  ]
 }
