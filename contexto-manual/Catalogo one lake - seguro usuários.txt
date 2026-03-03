@@ -1,0 +1,34 @@
+Nome
+Tipo
+Administrador de
+Membro de
+Colaborador de
+Visualizador de
+BT
+BI TopMed 2
+User
+38
+0
+0
+0
+BT
+BI TopMed
+User
+1
+0
+0
+1
+T(
+TopMed (geral)
+Group
+0
+1
+0
+0
+SL
+Sistema Lupa SSO
+User
+0
+0
+0
+1

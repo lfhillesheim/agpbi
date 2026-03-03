@@ -1,0 +1,70 @@
+Conexões de gateway de nuvem e dados para artefatos. Saiba mais sobre as conexões com suporte.
+
+10.10.0.2;DW_BI_PROD_Diaria
+SQL Server
+BI TopMed
+(Modo pessoal)
+10.10.0.2;DW_BI_PROD_Diaria (2)
+SQL Server
+BI TopMed
+gatewaytopmed
+10.150.209.55;DW_BI_PROD_Diaria
+SQL Server
+BI TopMed
+gatewaytopmed
+10.150.209.55;DW_BI_PROD_Diaria (2)
+SQL Server
+BI TopMed
+GW-TOPMEDBI
+10.150.209.60
+SQL Server
+BI TopMed
+(Modo pessoal)
+10.150.209.60
+SQL Server
+BI TopMed
+GW-TOPMED-BI2
+CapacityMetricsCES
+Métricas de Capacidade
+BI TopMed
+https://topmedcombr-my.sharepoint.com/personal/powerbi_02_topmed_com_br
+SharePoint
+BI TopMed
+https://topmedcombr-my.sharepoint.com/personal/powerbi_02_topmed_com_br/
+Web
+BI TopMed
+PowerBI
+Power BI fluxos de dados (Herdado)
+BI TopMed
+gatewaytopmed
+PowerPlatformDataflows
+Fluxos de dados
+BI TopMed
+
+
+---------
+
+
+O gateway de dados atua como uma ponte, fornecendo uma transferência de dados rápida e segura entre os dados locais e o Power BI, Microsoft Flow, Aplicativos Lógicos e PowerApps. Saiba mais nesta visão geral.
+
+Gateway TopMed
+powerbi_02@topmed.com.br
+BI TopMed
+1
+gatewaytopmed
+powerbi_02@topmed.com.br
+BI TopMed
+Atualização do gateway disponível
+1
+GW-TOPMED-BI2
+powerbi_02@topmed.com.br
+BI TopMed
+1
+GW-TOPMEDBI
+powerbi_02@topmed.com.br
+BI TopMed
+1
+
+
+
+

@@ -1,0 +1,75 @@
+
+Nome
+
+Tipo
+
+Proprietário
+
+Atualizado
+
+Localização
+
+Endosso
+
+Confidencialidade
+
+
+_Data Flow (Clientes Diário)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 14:11:24
+_DataFlows e Conjuntos (Relatórios)
+Promovido
+
+_Data Flow (Interno Diário)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 14:11:28
+_DataFlows e Conjuntos (Relatórios)
+Promovido
+
+Data Flow (DW BI Diária Aconselhamento)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 13:54:22
+_Data Flows (DW's)
+Promovido
+
+Data Flow (DW BI Diária Monitoramento)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 06:33:44
+_Data Flows (DW's)
+Promovido
+
+Data Flow (DW BI Diária)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 14:08:58
+_Data Flows (DW's)
+Promovido
+
+Data Flow (Empresa URL)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 01:07:26
+_Data Flows (DW's)
+
+Data Flow (MonTarefaResposta Em Colunas)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 06:04:22
+_Data Flows (DW's)
+Promovido
+
+Data Flow (Tabelas Sinteticas)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 06:32:04
+_Data Flows (DW's)
+
+Data Flow (Telefonia)
+Fluxo de dados Gen1
+BI TopMed 2
+03/03/26, 04:16:32
+_Data Flows (DW's)
