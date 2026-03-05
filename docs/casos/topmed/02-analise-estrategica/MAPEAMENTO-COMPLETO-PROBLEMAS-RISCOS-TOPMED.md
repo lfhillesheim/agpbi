@@ -22,12 +22,10 @@
 ### O Problema Real
 
 ```
-ESTIMATIVA INICIAL: ~50 artefatos
-REALIDADE: 1.632 artefatos
-DIFERENÇA: 3.164% a mais
+TOTAL IDENTIFICADO: 1.632 artefatos
 ```
 
-**A arquitetura Power BI da Topmed é 50x maior do que se imaginava.**
+**A arquitetura Power BI da Topmed apresenta fragmentação extrema.**
 
 ### Impacto Imediato
 - 1.543 relatórios para 73 modelos semânticos = **21:1 ratio** (impossível de manter)
@@ -579,9 +577,9 @@ Novo Cliente = 3-5 novos relatórios
 
 ### A Realidade
 
-O inventário Power BI da Topmed é **50x maior** do que a estimativa inicial:
+O inventário Power BI da Topmed revela uma arquitetura complexa e fragmentada:
 
-- Estimava-se ~50 artefatos → **Real: 1.632**
+- **1.632 artefatos** identificados
 - A fragmentação é **extrema e sistêmica**
 - **20+ relatórios para cada modelo semântico**
 - 192 relatórios de "Taxa de Utilização" (1 por cliente!)

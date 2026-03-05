@@ -20,7 +20,6 @@ A Topmed é uma das 5 maiores operadoras de telessaúde do Brasil, com **18 anos
 | DataFlows | 16 | 9 fluxos Gen1 (LEGADO) |
 | **TOTAL** | **1.632** | Inventário completo |
 
-**Comparação com estimativa anterior**: Estimávamos ~50 artefatos → **Real: 1.632** (3.164% a mais!)
 
 ---
 

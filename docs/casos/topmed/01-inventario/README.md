@@ -16,10 +16,6 @@
 | **DataFlows** | **16** | Fluxos de dados |
 | **TOTAL DE ARTEFATOS** | **1.632** | Inventário completo |
 
-**Comparação com estimativa anterior:**
-- Estimávamos ~26 modelos → **Real: 73** (180% a mais)
-- Estimávamos ~28 relatórios → **Real: 1.543** (5.400% a mais!)
-
 ---
 
 ## 2. DISTRIBUIÇÃO POR WORKSPACE
@@ -343,12 +339,12 @@ Entrelaços - VLI - Nominais
 
 ## 12. CONCLUSÃO
 
-**O inventário da Topmed é 50x maior do que a estimativa inicial:**
+**O inventário da Topmed revela uma fragmentação extrema e sistêmica:**
 
-- Estimava-se ~50 artefatos → **Real: 1.632**
-- A fragmentação é extrema e sistêmica
+- **1.632 artefatos** no ambiente Power BI
 - **20+ relatórios para cada modelo semântico**
 - 192 relatórios de "Taxa de Utilização" (1 por cliente!)
+- 9 DataFlows Gen1 (legado sendo descontinuado)
 
 **A arquitetura atual é incompatível com escala.**
 

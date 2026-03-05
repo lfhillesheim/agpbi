@@ -345,8 +345,7 @@ Taxa de Utilizacao - A10 Beneficios
 
 **Projecao**:
 ```
-Clientes atuais: ~50
-Modelos: 26+
+Modelos atuais: 26+
 
 Se dobrar clientes: 50+ modelos
 Se triplicar: 75+ modelos
@@ -408,7 +407,7 @@ Manutencao: IMPOSSIVEL
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    ESCALA ATUAL                            │
-│  ✓ Suporta: ~50 clientes                                   │
+│  ✓ Suporta: Clientes atuais                                │
 │  ✗ Novo cliente = Novo modelo (4-8h)                       │
 │  ✗ Manutencao proporcional a clientes                      │
 │  ✗ Documentacao impossivel                                 │
