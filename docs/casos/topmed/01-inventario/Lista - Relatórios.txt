@@ -1,0 +1,8563 @@
+
+Nome
+
+Proprietário
+
+Atualizado
+
+Localização
+
+Endosso
+
+Confidencialidade
+
+Status Atualização Base s BI
+
+—
+04/03/26, 09:38:00
+Dashboards Gerenciais PRO
+
+Mapeamento de Saúde Mental - Polícia Federal - Nominais
+
+—
+03/03/26, 21:40:39
+Personalizado - Clientes
+
+Mapeamento de Saúde Mental - Polícia Federal
+
+—
+03/03/26, 21:40:39
+Personalizado - Clientes
+
+Taxa Utilizacao - Prefeitura de Guaratuba
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prefeitura de Guaramirim
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Gerencial Área Técnica
+
+—
+04/03/26, 08:29:52
+Dashboards Gerenciais PRO
+
+Gerencial Único
+
+—
+04/03/26, 10:57:42
+Dashboards Gerenciais PRO
+
+Gerencial Faturamento_Versão Antiga
+
+—
+04/03/26, 11:45:56
+Dashboards Gerenciais PRO
+
+Assistente Virtual - Mediktor
+
+—
+04/03/26, 07:24:00
+Dashboards Gerenciais PRO
+
+Gerencial Teleconsulta - Interno
+
+—
+04/03/26, 08:46:16
+Dashboards Gerenciais PRO
+
+Entrelaços - Zurich
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Zurich - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+EAP com Teleconsulta - Localiza
+
+—
+03/03/26, 20:07:08
+Teleconsulta (EAP)
+
+Corpo e Mente em Forma
+
+—
+04/03/26, 09:16:04
+Personalizado - Clientes
+
+Taxa Utilizacao - Prefeitura de Araquari
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Saúde24h Plus - Prefeitura de Araquari
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Taxa Utilizacao - ACAERT
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - APAE Palhoca
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+CISNORDESTE - Atendimentos Concluídos - Mensal
+
+—
+03/03/26, 19:08:35
+Personalizado - Clientes
+
+
+
+
+Taxa Utilizacao - Allpfit
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - A10 Beneficios
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Saúde24h Standard - Allpfit
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - A10 Beneficios
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde Emocional - Terapia Online - A10 Beneficios
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Nutricall - Teleorientação Nutricional - A10 Beneficios
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Mapeamento de Saúde Mental - Inovare Soluções em Saúde - Unificado - Nominais
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Mapeamento de Saúde Mental - Inovare Soluções em Saúde - Unificado
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Mapeamento de Saúde Mental - Abrasul - Nominais
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Mapeamento de Saúde Mental - Abrasul
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Saúde24h Premium E+ - Abrasul
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Lista de s e Permissões de Acesso
+
+—
+04/03/26, 06:34:20
+Dashboards Gerenciais PRO
+
+Taxa Utilizacao - Ferramentaria Demarchi
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Saúde24h Premium E+ - Ferramentaria Demarchi
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+Alô Saúde Floripa - PMF
+
+—
+25/02/26, 23:02:20
+_Homologação PRO
+
+Alô Saúde Floripa - PMF
+
+—
+04/03/26, 10:11:33
+Personalizado - Clientes
+
+Ailos - BI de Vendas
+
+—
+04/03/26, 09:15:56
+Personalizado - Clientes
+
+Mapeamento de Saúde Mental - SER - Nominais
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Saúde24h Smart E+ - BrFan
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Taxa Utilizacao - BrFan
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Saúde24h Standard - BrFan
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Smart - BrFan
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Lista Beneficiários - BrFan
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Saúde24h Smart E+ - Telamed Conecta Controle de Acesso
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart - Crediffato
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Plus - Sicoob Europ
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Brasil Atuarial
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Gerencial Financeiro
+
+—
+04/03/26, 08:19:33
+Dashboards Gerenciais PRO
+
+
+
+Gerencial Faturamento
+
+
+
+
+—
+04/03/26, 09:51:14
+Dashboards Gerenciais PRO
+
+Hiperconsultadores - Oi
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Gerencial Faturamento
+
+—
+16/12/25, 10:43:42
+_Homologação PRO
+
+Hiperconsultadores - CENCOSUD
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Crônicos - 99 Tecnologia
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Gerencial TelaPet
+
+—
+18/12/25, 09:49:10
+_Homologação
+
+Hiperconsultadores - Unificado Marsh
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Saúde24h PAV PAE Consulta Imediata - Modelo  - Unificado
+
+—
+03/03/26, 16:41:23
+_Homologação
+
+Saúde24h PAV PAE Consulta Imediata - Modelo 
+
+—
+03/03/26, 16:41:23
+_Homologação
+
+Microsoft Fabric Capacity Metrics
+Aplicativo
+BI TopMed 2
+—
+Microsoft Fabric Capacity Metrics
+
+Content Sharing
+
+—
+04/03/26, 13:50:18
+Admin monitoring
+
+Entrelaços - Tivit - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - TopMed - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Trouwnutricion - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - Unafisco - Nominais
+
+
+
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Uniclube - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Unidas - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Unificado Marsh - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Vivara - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - VLI - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Feature Usage and Adoption
+
+—
+04/03/26, 13:56:22
+Admin monitoring
+
+Gerencial Comercial
+
+—
+04/03/26, 12:47:39
+Dashboards Gerenciais PRO
+
+Gerencial Financeiro
+
+—
+03/03/26, 15:06:49
+_Homologação PRO
+
+Grupo CASE - Gestão de Monitoramento
+
+—
+04/03/26, 11:42:25
+Personalizado - Clientes
+
+Lista Beneficiários - FABRICA CT
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - LOGOSUL
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Planus
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Tivoli
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Mapeamento de Saúde Mental - Polícia Federal - Conjunto de Dados
+
+—
+03/03/26, 21:40:39
+Personalizado - Clientes
+
+
+
+
+Mapeamento de Saúde Mental - Polícia Federal - Conjunto de Dados
+
+
+
+
+—
+03/03/26, 21:40:39
+Personalizado - Clientes
+
+Mapeamento de Saúde Mental - SER
+
+—
+03/03/26, 21:13:14
+Mapeamento de Saúde Mental
+
+Nutricall - LGA Contadores
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+OneLake Catalog - Governance for Admins
+
+—
+04/03/26, 14:25:13
+Admin monitoring
+
+Purview Hub
+
+—
+04/03/26, 13:50:26
+Admin monitoring
+
+s LH - Monitoramento
+
+—
+04/03/26, 10:25:40
+Dashboards Gerenciais PRO
+
+Saúde Emocional - Terapia Online - LGA Contadores
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Mag Saúde Colaboradores
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Nova Health Journey
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde24h Medical E+ - Prefeitura de Campestre da Serra
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Prefeitura de Itajaí
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Prefeitura de Marechal Cândido Rondon
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Plus - Prefeitura de Guaramirim
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Prefeitura de Guaratuba
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Premium E+ - Mag Saúde Credenciados
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart E+ - Cooxupé - Bradesco
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Digio BVP
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+
+
+
+Saúde24h Smart E+ - Pottencial
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Prudential IA Especialidades VG
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Telamed Conecta Serviços
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Telamed Portus
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Conecta+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - LGA Contadores
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Mag Saúde Colaboradores
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Planus
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Telamed Conecta Controle de Acesso
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Telamed Conecta Serviços
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Telamed Portus
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Tivoli
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Conecta+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - FABRICA CT
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+
+Taxa Utilizacao - LOGOSUL
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Mag Saúde Colaboradores
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Mag Saúde Credenciados
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Planus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prefeitura de Campestre da Serra
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prefeitura de Itajaí
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prefeitura de Marechal Cândido Rondon
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed Conecta Controle de Acesso
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed Conecta Serviços
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed Portus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Tivoli
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Entrelaços - 99 Tecnologia - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - ADP - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - AKER - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - Amil PPC - Nominais
+
+
+
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Amil PPC ONE - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Anafe Saúde - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Ascendty - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Atos Brasil - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Banco Inter - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - BP Bunge - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - BrasilSeg - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CEVA - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CLI - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Clube de Vantagens Viva Ouro - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CPFL - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CSP - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Diebold - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - D'or Consultoria - Nominais
+
+
+
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - DSM - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Equifax - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Evonik - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Fidelity - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Flextronic - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - FTD - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Instituto Butantan - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - JDE - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Kantar - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Lanxess - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - LDS - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Localiza - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - L'Oreal - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - Mapfre - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marista Brasil - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marista Sul - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marsh - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Organon - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Oxiteno - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Philip Morris Brasil - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Plano de Saúde São José - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Rehau - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - SADA - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Samsung - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Sanofi - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - SIDIA - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - State Grid - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Supergasbras - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+Entrelaços - TECBAN - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Tembici Marsh - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Tigre - Nominais
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Gestão de Atendimentos - Policia Federal
+
+—
+03/03/26, 18:15:05
+Personalizado - Clientes
+
+Gestão de Atendimentos - Policia Federal - Conjunto de Dados
+
+—
+03/03/26, 18:15:05
+Personalizado - Clientes
+
+Gestão de Atendimentos - Policia Federal - Nominais
+
+—
+03/03/26, 18:15:05
+Personalizado - Clientes
+
+Hiperconsultadores - Instituto Butantan
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Hiperconsultadores - Pan American Silver
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Hiperconsultadores - Plano de Saúde São José
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Hiperconsultadores - SABIN
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Hiperconsultadores - Tembici Marsh
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Lista Beneficiários - Caixa Residencial
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Camed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Evo Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+Lista Beneficiários - Lowell
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Oceano Confecção
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prudential IA Especialidade VG
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prudential Nutriline
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prudential Personal Fitness VG
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prudential Psicológica Premium
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prudential Telemedicina VG
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Saúde Agil
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - SB Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Salva Med
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - Oceano Confecção
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+ de Demonstração - Mapeamento de Saúde Mental
+
+—
+14/11/25, 15:10:30
+Dashboards Gerenciais PRO
+
+ Pendências Operacionais
+
+—
+04/03/26, 07:46:34
+Dashboards Gerenciais PRO
+
+Saúde Emocional - Terapia Online - Caixa Residencial
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Oceano Confecção
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde24h Premium E+ - Camed
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Oceano Confecção
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart - Evo Saúde
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart E+ - Evo Saúde
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+
+
+Saúde24h Smart E+ - Evo Saúde
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Camed
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Lowell
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Oceano Confecção
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Saúde Agil
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Salva Med
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Caixa Residencial
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Camed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Evo Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Lowell
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Oceano Confecção
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prudential IA Especialidade VG
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prudential Nutriline
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prudential Personal Fitness VG
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prudential Psicológica Premium
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prudential Telemedicina VG
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Saúde Agil
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - SB Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Salva Med
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Crônicos - Aires
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Aldeia Kids
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Habitat
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Honda
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - SER
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - VBC
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Lista Beneficiários - Aires
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Aldeia Kids
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Ana Paula Barbosa Advocacia
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+
+Lista Beneficiários - BMS Seguros
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - CAB Servicos
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Construtora e Incorporadora Espaco
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Green
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Habitat
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Honda
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - LP Banco da Familia
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Primaveras
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - SER
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Telamed LL Antunes
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Telamed Sescon Florianopolis
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Topmed Experience Privado
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Brasil Medical Care
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+Lista Beneficiários - Unificado Rede Sistema Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - UNNI Soluções
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - VBC
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - De Paula Lima Advocacia
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Primaveras
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Telamed LL Antunes
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Telamed Sescon Florianopolis
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Teleorientação Nutricional - BMS Seguros
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - De Paula Lima Advocacia
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Unificado Rede Sistema Saúde
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - UNNI Soluções
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+ de Demonstração - Área Pública
+
+—
+18/01/26, 19:01:15
+Dashboards Gerenciais PRO
+
+Saúde Emocional - Teleorientação Psicológica - BMS Seguros
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - De Paula Lima Advocacia
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Terapia Online - Aires
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Aldeia Kids
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Ana Paula Barbosa Advocacia
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - CAB Servicos
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+
+
+
+Saúde Emocional - Terapia Online - Construtora e Incorporadora Espaco
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - De Paula Lima Advocacia
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Green
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Habitat
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Honda
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Primaveras
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - SER
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Telamed LL Antunes
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Telamed Sescon Florianopolis
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unificado Rede Sistema Saúde
+
+
+
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - UNNI Soluções
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - VBC
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde24h Basic - Supergasbras
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Medical E+ - Prefeitura de Vacaria
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Premium E+ - Aires
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Aldeia Kids
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - BMS Seguros
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - De Paula Lima Advocacia
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Habitat
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Honda
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Primaveras
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - SER
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+
+
+Saúde24h Premium E+ - Unificado Rede Sistema Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - UNNI Soluções
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - VBC
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart E+ - Telamed LL Antunes
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Telamed Sescon Florianopolis
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Aires
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Aldeia Kids
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Ana Paula Barbosa Advocacia
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - BMS Seguros
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - CAB Servicos
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Construtora e Incorporadora Espaco
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - De Paula Lima Advocacia
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Green
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Habitat
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Honda
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Johni Despachante
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+
+Saúde24h Standard - Primaveras
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - SER
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Telamed Sescon Florianopolis
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - UNNI Soluções
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - VBC
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Ana Paula Barbosa Advocacia
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - BMS Seguros
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - CAB Servicos
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Construtora e Incorporadora Espaco
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Green
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Johni Despachante
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Primaveras
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed LL Antunes
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed Sescon Florianopolis
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Topmed Experience Privado
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Brasil Medical Care
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Rede Sistema Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - UNNI Soluções
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+
+
+Taxa Utilizacao - UNNI Soluções
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Conecta SUS Ribeirão
+
+—
+04/03/26, 07:41:04
+Personalizado - Clientes
+
+Crônicos - Imedicos
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Entrelaços - Tigre
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Unificado Marsh
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Lista Beneficiários - JN Servicos Medicos
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Johni Despachante
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Plam Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Plamer Plano Medico
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Poli Gestao
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - PWT Da Silva
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - SatBank
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Selbetti Tecnologia
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Stylus
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Telamed Instituto Conecta
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado HORFRAN
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Inovare Soluções em Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Sindilegis
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+Lista Beneficiários - Viva Bem Saude
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Weknow Business Intelligence
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - Johni Despachante
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Selbetti Tecnologia
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Unificado Inovare Soluções em Saúde
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Saúde Emocional - Terapia Online - Aliviaê
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Allp Digital
+
+
+
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - APAE Palhoca
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Artebrilho Multiservicos Ltda
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Brisanet
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Britagem Vogelsanger Ltda
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Casa Health Internacional
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Casa Health Nacional
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Cevipa Central de Vigilancia Patrimonial
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Consultorios VisionCard
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Du Beneficios
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Du Benefícios Colaboradores
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - F&Fcred
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+
+
+
+Saúde Emocional - Terapia Online - F&FCred (Grupo Ag Brasil)
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Gestservi Gestao e Terceirizacao
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Grupo DSA
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Grupo Mateus
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Grupo Rodocargas
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Grupo Transvidal
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Hospital Sabin
+
+
+
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Imedicos
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Italife
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Jaslog
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Johni Despachante
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Life Card
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Office Flex
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Prefeitura de Monte Carmelo
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Rede Mais
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Rio Minas - Terceirizacao e Administracao
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Segex Administracao e Servicos Ltda
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Segex Seguranca Privada Ltda
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Selbetti Tecnologia
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+
+
+
+Saúde Emocional - Terapia Online - Selbetti Tecnologia
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Stylus
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Super A Balneário Camboriú 302
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Super A Blumenau 301
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Super A Florianópolis 303
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Super Otica Sao Jose
+
+
+
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unafisco Saúde
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unificado Inovare Soluções em Saúde
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unificado Mediclick
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unificado Unifique
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Unificado Vallora Solucoes em Beneficios
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Vallora Soluções Em Benefícios
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Vila do Farol
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Village Administracao e Servicos
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Vision Card
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Viva Care
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Viva Max
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - Weknow Business Intelligence
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+Saúde Emocional - Terapia Online - X Docctor
+
+—
+04/03/26, 00:44:07
+Saúde Emocional - Terapia Online
+
+
+
+
+Saúde24h Plus E+ - Telamed Instituto Conecta
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Premium E+ - PWT Da Silva
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Imembui Microfinancas
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - JN Servicos Medicos
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unificado Inovare Soluções em Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart E+ - Unificado Sindilegis
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Imedicos
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Plam Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Plamer Plano Medico
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Poli Gestao
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - SatBank
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Selbetti Tecnologia
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Stylus
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado HORFRAN
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Inovare Soluções em Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Viva Bem Saude
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - JN Servicos Medicos
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Plam Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Plamer Plano Medico
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Poli Gestao
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+Taxa Utilizacao - PWT da Silva
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - SatBank
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Selbetti Tecnologia
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Stylus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Telamed Instituto Conecta
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado HORFRAN
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Inovare Soluções em Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Viva Bem Saude
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Ailos - Gestão de Atendimentos
+
+—
+04/03/26, 09:47:34
+Personalizado - Clientes
+
+Correios - BI de Vendas
+
+—
+04/03/26, 11:18:22
+Dashboards Gerenciais PRO
+
+Crônicos - Equinox Gold
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Flextronic
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - FTD
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Instituto Butantan
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - JTI
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Kantar
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Lanxess
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - LDS
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Localiza
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - L'Oreal
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+
+
+
+Crônicos - Marista
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Marista Sul
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Marsh
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - NOV
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - NTT DATA
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Pan American Silver
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Plano de Saúde São José
+
+
+
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Rehau
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Saam Towage
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - SABIN
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - SADA
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Sanofi
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Seb Do Brasil
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - SIDIA
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Supergasbras
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - TECBAN
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Tigre
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Trouwnutricion
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Unafisco Saúde
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+
+Crônicos - Unificado DASA
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Unificado Marsh
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Vivara
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - VLI
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Xerox
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Zurich
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Entrelaços - Rehau
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Extração Nominal de Vidas
+
+
+
+
+—
+04/03/26, 09:25:56
+Dashboards Gerenciais PRO
+
+Gestão de Monitoramento - Grupo Marista
+
+—
+04/03/26, 11:10:37
+Gestão de Monitoramento
+
+IPSM
+
+—
+03/03/26, 19:09:24
+Personalizado - Clientes
+
+Lista Beneficiários - ACAERT
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Consultorios VisionCard
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Grupo Rodocargas
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - HCPless
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Hospital Itamed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Imembui Microfinancas
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Jaslog
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prime Mobile
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Super Otica Sao Jose
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+Lista Beneficiários - Unificado GS2 Corretora de Seguros
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Valenet
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unio Ben
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Vid App
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - Grupo Rodocargas
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Jaslog
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Teleorientação Nutricional - Consultorios VisionCard
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Grupo Rodocargas
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Jaslog
+
+
+
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Super Otica Sao Jose
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+ Complementar - Localiza
+
+—
+02/03/26, 19:09:17
+Personalizado - Clientes
+
+Saúde Emocional - Teleorientação Psicológica - Consultorios VisionCard
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Grupo Rodocargas
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Imembui Microfinancas
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Jaslog
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Super Otica Sao Jose
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde24h Plus E+ - HCPless
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Premium E+ - Grupo Rodocargas
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Hospital Itamed
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+Saúde24h Premium E+ - Jaslog
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unio ben
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart - Unificado Valenet
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart E+ - ACAERT
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - ACAERT
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Consultorios VisionCard
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Grupo Rodocargas
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Hospital Itamed
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Jaslog
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prime Mobile
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Super Otica Sao Jose
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado GS2 Corretora de Seguros
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Sindilegis
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Valenet
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Vid App
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Consultorios VisionCard
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Grupo Rodocargas
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - HCPless
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Hospital Itamed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+
+
+
+
+Taxa Utilizacao - Imembui Microfinancas
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Jaslog
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prime Mobile
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Super Otica Sao Jose
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado GS2 Corretora de Seguros
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Sindilegis
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Valenet
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unio ben
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Vid App
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Transpetro - Gestão de Atendimentos
+
+—
+04/03/26, 10:39:09
+Personalizado - Clientes
+
+Crônicos - Ancar
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - ANIN
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Arteris
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Ascendty
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Banco Inter
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - BP Bunge
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - BrasilSeg
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - BrMalls
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+
+Crônicos - CLI
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Copacabana Palace
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - CPFL
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - CSP
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - Diebold
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Crônicos - DSM
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+Entrelaços - Ascendty
+
+
+
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CLI
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Clube de Vantagens Viva Ouro
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CPFL
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - CSP
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Diebold
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - D'or Consultoria
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - DSM
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Equifax
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Evonik
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Fidelity
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Flextronic
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - FTD
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - Instituto Butantan
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - JDE
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Kantar
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Lanxess
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - LDS
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Localiza
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - L'Oreal
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Mapfre
+
+
+
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marista Brasil
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marista Sul
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Marsh
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Organon
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Oxiteno
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Philip Morris Brasil
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Plano de Saúde São José
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - SADA
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Samsung
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Sanofi
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - SIDIA
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - State Grid
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Supergasbras
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - TECBAN
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Tembici Marsh
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Tivit
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - TopMed
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Trouwnutricion
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Unafisco
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Uniclube
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Unidas
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Vivara
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - VLI
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Lista Beneficiários - Estancia Bela Vista
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - F&FCred (Grupo Ag Brasil)
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Ica Mais Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado You Sua Saude ON
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - F&FCred (Grupo Ag Brasil)
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Teleorientação Nutricional - F&FCred (Grupo Ag Brasil)
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+
+
+Obesidade - Flex
+
+—
+04/03/26, 01:36:06
+Obesidade
+
+Obesidade - Plano de Saúde São José
+
+—
+04/03/26, 01:36:06
+Obesidade
+
+Saúde Emocional - Teleorientação Psicológica - F&FCred (Grupo Ag Brasil)
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde24h Premium E+ - Estancia Bela Vista
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - F&FCred (Grupo Ag Brasil)
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart - Bem Brasil Multisserviços
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Franca Garden
+
+
+
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - GDF
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Palácio Imperial
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Residencial Florença
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Residencial Glass Campolim
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Residencial Jasmim
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Residencial Remanso do Lago
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - SSI Saude
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Smart - Total Garantidora
+
+—
+03/03/26, 20:38:22
+Saúde24h Smart
+
+Saúde24h Standard - F&FCred (Grupo Ag Brasil)
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Ica Mais Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Viva Care
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Estancia Bela Vista
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+Taxa Utilizacao - F&FCred (Grupo Ag Brasil)
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Ica Mais Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Bom Abraço
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Correios
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Ducash
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Europ
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Mediclick
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Napkinn
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado P P Marketing e Divulgacao
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Provida
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Total Garantidora
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Unifique
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado Vallora Solucoes em Beneficios
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unificado You Sua Saude ON
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Entrelaços - 99 Tecnologia
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - ADP
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - AKER
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Amil PPC
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Amil PPC ONE
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+
+
+
+Entrelaços - Anafe Saúde
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Atos Brasil
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - Banco Inter
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - BP Bunge
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Entrelaços - BrasilSeg
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Lista Beneficiários - Full Care
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Gram Telemedicina
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - GreenCard
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Grupo DSA
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Grupo Transvidal
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - HealthMed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Helps Santander
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Imedicos
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Initcare
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Inova Gestão em Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - IPSM
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Italife
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - JDE
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - JTI
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+
+
+Lista Beneficiários - Korsa Seguros
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Life Card
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - LL Comunicação
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Localiza
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Maisedu
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - MedSempre
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - MedWeb
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Napkinn
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - NTT DATA
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Oxiteno
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Palm Health
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - PaxMed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Phibro
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Phoenix Memorial
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Plano de Saúde São José
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Plano Saúde Família
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Plugpix
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Poc Dasa
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Prefeitura de Balneário Piçarras
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+Lista Beneficiários - Prefeitura de Monte Carmelo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - PrimeMed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Pró-Rim
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - PróSaúde24h
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Protege Centro Serra
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - QrCode Tele Clinica Brasil
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - QrCode Tele Clinica Especialidades
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Quality
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Ravi
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Rede Gás Station
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Rede Mais
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Rio Minas - Terceirizacao e Administracao
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Sabin
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - SaídaMed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Saúde + Segura
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Saúde Brasil 24h
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Segex Administracao e Servicos Ltda
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Segex Seguranca Privada Ltda
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Sicoob Central SC-RS
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Sim Club
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+Lista Beneficiários - SouCare
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - SSI Saude
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Sulplaster
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Tele Clínica Brasil
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Tele Clínica Plus
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - TotalDoc
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - TotalDoc Especialistas
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unafisco Saúde
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Uniclube
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Bom Abraço
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado DASA
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Europ
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Marsh
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Mediclick
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Napkinn
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado P P Marketing e Divulgacao
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado PróVida
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Rede Total
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Sodexo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+Lista Beneficiários - Unificado Total Garantidora
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Unifique
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unificado Vallora Solucoes em Beneficios
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Vallora Soluções Em Benefícios
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Via Planos
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Vida Premium
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Vila do Farol
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Village Administracao e Servicos
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - VisionCard
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Viva Care
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Viva Max Conecta
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Viva Max QrCode
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - VLI
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - X Docctor
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Yema
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Zaloo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Saúde24h Premium E+ - Full Care
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Taxa Utilizacao - Full Care
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Crônicos - Ânima
+
+—
+03/03/26, 21:39:18
+Cronicos
+
+
+
+
+Entrelaços - CEVA
+
+—
+03/03/26, 22:37:14
+Entrelaços
+
+Gerencial Comercial - Área Pública
+
+—
+04/03/26, 10:42:38
+Dashboards Gerenciais PRO
+
+Gerencial de Vidas x Produtos
+
+—
+04/03/26, 09:24:53
+Dashboards Gerenciais PRO
+
+Gestão de Monitoramento - L'Oreal
+
+—
+04/03/26, 11:10:37
+Gestão de Monitoramento
+
+Gestão de Monitoramento - Unificado Marsh
+
+—
+04/03/26, 11:10:37
+Gestão de Monitoramento
+
+Lista Beneficiários - Aemflo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Afagu
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Allp Digital
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - ANIN
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - APAE Palhoca
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Artebrilho Multiservicos Ltda
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Ascendty
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - ASSETJ
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Balneário Camboriú
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Banco da Família
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Bem Brasil Multisserviços
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Bem Mais Card- HPX
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Bloomed
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Bom Abraço
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+
+
+
+Lista Beneficiários - Bradesco
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Bradesco BVP
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Brisanet
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Britagem Vogelsanger Ltda
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Card Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Cartão Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Cartão Sua Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Casa Health Internacional
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Casa Health Nacional
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - CEVA
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Cevipa Central de Vigilancia Patrimonial
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Club Card
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Clube Mercosul
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Compensa Gestão de Ativos
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Consultas Brasil
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Copacabana Palace
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Cuidar Assistência
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Cvon Benefícios e Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - DentalUni
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+Lista Beneficiários - Despercard Ambulatorial
+
+
+
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - ECID
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - F&Fcred
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Filoo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Flex
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - FTD
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Funeraria Pax Prever
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Garupa
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - GDF
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Gestservi Gestao e Terceirizacao
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - LDS
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Live S.A
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Policlinica da Policia Militar do Estado do Acre
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Unio Group
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Nutricall - Office Flex
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Operações Receptivas
+
+—
+04/03/26, 10:29:54
+Dashboards Gerenciais PRO
+
+Saúde24h Medical E+ - Hospital Tapajos
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Plus - Ravi
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus E+ - MedSempre
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+
+Saúde24h Plus E+ - Primeiro Impacto Df Manutencao de Edificios
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Ravi
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Premium E+ - Bloomed
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Bloomed Consultas Avulsas
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Card Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Consultas Brasil
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Cvon Benefícios e Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Imedicos
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Live S.A
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Policlinica da Policia Militar do Estado do Acre
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Ravi
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart E+ - Bem Brasil Multisserviços
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Despercard Ambulatorial
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Bloomed
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Garupa
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Live S.A
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Office Flex
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Ravi
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado P P Marketing e Divulgacao
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+Saúde24h Standard - Unio Group
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Bem Brasil Multisserviços
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Bloomed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Card Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Consultas Brasil
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Cvon Benefícios e Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Despercard Ambulatorial
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Garupa
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - GDF
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Grupo Mateus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Imedicos
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Live S.A
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - MedSempre
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Policlinica da Policia Militar do Estado do Acre
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Primeiro Impacto Df Manutencao de Edificios
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Ravi
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+
+Taxa Utilizacao - Unio Group
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Vila do Farol
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Village Administracao e Servicos
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Apresentação Correios
+
+—
+23/10/24, 11:31:04
+Personalizado - Clientes
+
+EAP - Oxiteno
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Rede Gás Station
+
+—
+03/03/26, 19:40:38
+EAP
+
+Nutricall - APAE Palhoca
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Artebrilho Multiservicos Ltda
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Britagem Vogelsanger Ltda
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Cevipa Central de Vigilancia Patrimonial
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Gestservi Gestao e Terceirizacao
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Grupo DSA
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Rio Minas - Terceirizacao e Administracao
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Segex Administracao e Servicos Ltda
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+
+
+Nutricall - Segex Seguranca Privada Ltda
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Unificado Vallora Solucoes em Beneficios
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Vallora Soluções Em Benefícios
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Vila do Farol
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Village Administracao e Servicos
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Saúde24h Plus - Clube Mercosul
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Korsa Seguros
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus E+ - Du Benefícios
+
+
+
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Inova Gestão em Saúde
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - IntCom
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Intermed
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Italife
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Itiban
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - LAP Consultoria
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Life Card
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Mais Vida Litoral
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Maisedu
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Maissaúde24h
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Mediclick
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+
+
+Saúde24h Plus E+ - Médico Amigo
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - MedWeb
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - MetaD Health Care
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Napkinn
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Palácio Imperial
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Palm Health
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - PaxMed
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Phoenix Memorial
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Plano Saúde Familiar
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Plugpix Saúde
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - PodCast Cruzmaltino
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Pomerode
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Prefeitura de Ascurra
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Prefeitura de Brusque
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+
+
+Saúde24h Plus E+ - Prefeitura de Rodeio
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Pró-Rim
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - PróSaúde24h
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - ProservNet
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Prosperar
+
+
+
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Provedor Pixel
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Provida
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Quality
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Rede Mais
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Residencial Florença
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Residencial Glass Campolim
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Residencial Jasmin
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Residencial Remanso do Lago
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - SaídaMed
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Saúde Brasil 24h
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Segurav
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Sicoob
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Sistema Ribeira de Comunicação
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - SouCare
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+
+Saúde24h Plus E+ - SouCare
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Sulplaster
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - TelaMed
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Tele Clinica
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Top+ Benefícios
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Total Garantidora
+
+
+
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Unificado Bom Abraço
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Unificado Marsh
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Unificado Mediclick
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Unificado Unifique
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Via Planos
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Vision Card
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Viva Max
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Zaloo
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Premium E+ - LL Comunicação
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Sicoob Central SC-RS
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Smart E+ - Rede Gás Station
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - APAE Palhoca
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Grupo DSA
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - PrimeMed
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Vila do Farol
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Artebrilho Multiservicos Ltda
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Britagem Vogelsanger Ltda
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Cevipa Central de Vigilancia Patrimonial
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Clube Mercosul
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Gestservi Gestao e Terceirizacao
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Grupo DSA
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Korsa Seguros
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - LL Comunicação
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - PrimeMed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Rede Gás Station
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Rio Minas - Terceirizacao e Administracao
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Segex Administracao e Servicos Ltda
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Segex Seguranca Privada Ltda
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Sicoob Central SC-RS
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Vallora Soluções Em Benefícios
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Saúde24h Plus - Adapta Gestão de Benefícios
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Alba Univida
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+
+Saúde24h Plus - Alba Univida
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Alisson Consultor de Vendas
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - ASSETJ
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - BDI
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Be&By Business
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Benedito Novo
+
+
+
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Bom Abraço
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Bradesco
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Bradesco BVP
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Brasinc
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Casa Health - Internacional
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Casa Health - Nacional
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Celebraie
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Centauro ON
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Clube de Vantagens Viva Ouro
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Consultive Soluções Ltda
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Cuidar+Pernambucanas
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Expertise
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Expertme
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+
+
+Saúde24h Plus - Expertme
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Filóo
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Floresta de Jandira
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Generali
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Global Charge
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Greencard
+
+
+
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Grupo Armacollo
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Hero Informações Comerciais
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Hospital Sabin
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - INITBANK
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - IntCom
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Intermed
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Life and Business Consultancy
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Life Card
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Mais Vida Litoral
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Mediclick Experience
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - MedSempre
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - MedWeb
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Nascimento Soluções e Negócios Empresariais
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+
+
+Saúde24h Plus - Núcleo Informações Cadastrais
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Pague on
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Palm Health
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Prefeitura de Esteio
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Prime
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Proafe
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - PróSaúde24h
+
+
+
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Prosperar
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Protege Centro Serra
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Provedor Pixel
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - PróVida
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Rede Assistência
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Rede Mais
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Representação Comercial Douglas Melo
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Solutec Promotora de Vendas
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - SS Consultoria e Informações
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Sua Saúde
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - TelaMed
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Tele Clinica Brasil
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+
+
+Saúde24h Plus - Tele Clínica Plus
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Top + (Berbara)
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - TopMed
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Triplice Serviços de Tecnologia
+
+
+
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - TUDO CARD
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Unificado Adapta
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Unificado Bom Abraço
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Unificado Marsh
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Valorizar Mais Saúde
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Via Global
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - VidaMed
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Vision Card
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Viva Max Conecta
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus - Weiser Tecnologia e Gestão
+
+—
+03/03/26, 20:38:15
+Saúde24h Plus
+
+Saúde24h Plus E+ - Afagu
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+Saúde24h Plus E+ - Anglo Internacional Brasil
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Anglo Internacional Estados Unidos
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - ASSETJ
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Assistência Cidadão
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Blumenau
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Bom Abraço
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Botuverá
+
+
+
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Brisanet
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Casa Health - Internacional
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Casa Health - Nacional
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Celebraie
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Cell Saúde
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Club Card
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Convcard
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - DentalUni
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Doutor Pedrinho
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Ducash Plus
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - ECID
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Filóo
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+
+
+
+
+Saúde24h Plus E+ - Franca Garden
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Gaspar
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Gram Telemedicina
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Greencard
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - HealthMed
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - Helps Santander
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+Saúde24h Plus E+ - INITBANK
+
+
+
+
+—
+04/03/26, 00:08:04
+Saúde24h Plus E+
+
+PoC ANAC - Gestão Unificada Atendimentos
+
+—
+02/06/25, 12:02:23
+Personalizado - Clientes
+
+Saúde24h Premium - Alisson Consultor de Vendas
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Be&By Business
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Brasinc
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Casa Health - Internacional
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Casa Health - Nacional
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - CDL
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Consultive Soluções Ltda
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Expertise
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Expertme
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Global Charge
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Hero Informações Comerciais
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+
+
+Saúde24h Premium - Hospital Sabin
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Life and Business Consultancy
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Mediclick
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Nascimento Soluções e Negócios Empresariais
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Núcleo Informações Cadastrais
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Plano Saúde Familiar
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Proafe
+
+
+
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Próvida
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Representação Comercial Douglas Melo
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - RS Saúde Premium
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Solutec promotora de vendas
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - SS Consultoria e informações
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Total Saúde
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Total Saúde Dr24h
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Triplice Serviços de Tecnologia
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Unificado Mediclick
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Vida Premium
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium - Weiser Tecnologia e Gestão
+
+—
+03/03/26, 23:39:44
+Saúde24h Premium
+
+Saúde24h Premium E+ - Allp Digital
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+Saúde24h Premium E+ - Anglo Internacional Europa
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Banco da Família
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Be&By Business
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - BOM ABRAÇO
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Bom Conselho
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - CDL
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - DentalUni
+
+
+
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Ducash Premium
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - ECID
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - F&Fcred
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Garanhuns
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Global Charge
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Grupo Transvidal
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Hospital Sabin
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Inova Gestão em Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - ITALIFE
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Master Med
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Mediclick
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - MedWeb
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+Saúde24h Premium E+ - Napkinn
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - PaxMed
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Prefeitura de Monte Carmelo
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Prudential
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - QrCode Tele Clinica Brasil
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - QrCode Tele Clinica Especialidades
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Quality
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - SaídaMed
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Santa Med
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Solutec Promotora de Vendas
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - SS Consultoria e informações
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Super A Balneário Camboriú 302
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Super A Blumenau 301
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Super A Florianópolis 303
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - SUPERMERCADO FORTE
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - TotalDoc Especialistas
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Triplice Serviços de Tecnologia
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unafisco Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+
+
+Saúde24h Premium E+ - Unificado Bom Abraço
+
+
+
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unificado Mediclick
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unificado Unifique
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Unifique
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Vale Saúde
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Viva Care
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Viva Max
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - Viva Max Conecta
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Premium E+ - X Docctor
+
+—
+04/03/26, 02:09:02
+Saúde24h Premium E+
+
+Saúde24h Standard - Segex Administracao e Servicos Ltda
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prefeitura de Monte Carmelo
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Proafe
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Quality
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Representação Comercial Douglas Melo
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+Saúde24h Standard - Rio Minas Terceirização e Administração
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - RS Saúde Standard
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - SaídaMed
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Segex Seguranca Privada Ltda
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Sim Club
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Solutec Promotora de Vendas
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - SS Consultoria e Informações
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - TotalDoc
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Triplice Serviços de Tecnologia
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Vallora Solucoes em Beneficios
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Bom Abraço
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Mediclick
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Unificado Unifique
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Vale Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+Saúde24h Standard - Vallora Soluções em Benefícios
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Village Administracao e Servicos
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Weiser Tecnologia e Gestão
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Atendimentos Concluídos - Diario - Prefeitura de Ascurra
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Balneario Camboriu
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Balneário Piçarras
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Blumenau
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Botuvera
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Brusque
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Doutor Pedrinho
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Esteio
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Gaspar
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Itapoá
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Lages
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Pomerode
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Portobelo
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Rodeio
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Prefeitura de Três Lagoas
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Saúde24h Basic - 24 Horas Gestão e Saúde
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+
+
+
+Saúde24h Basic - Benedito Novo
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Brasil Atuarial
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - brMalls
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Fidelity
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Filóo
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Grupo Armacollo
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Icatu
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Idee Seguros
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Itapoá
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Lages
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Loccard
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Mediclick Experience
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - MedSempre
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - MedWeb
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Móveis Albatroz
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Móveis Gelius
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Móveis RosaFor
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Mulheres Positivas
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Plano Viver
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+
+Saúde24h Basic - PróVida
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Rede Assistência
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Rede Total
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Rio do Sul
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - SADA
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Single Care
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - TC Vendedores - Varejo
+
+
+
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Tela Clinica Brasil
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - TelaMed
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Total Saúde
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Unafisco
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Unificado Marsh
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Via Global
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - VidaMed
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - VipCard
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Vision Card
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Basic - Work State
+
+—
+03/03/26, 23:07:19
+Saúde24h Basic
+
+Saúde24h Smart E+ - Aemflo
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Aliviaê
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+
+
+Saúde24h Smart E+ - Funeraria Pax Prever
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Sim Club
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Smart E+ - Yema
+
+—
+03/03/26, 20:10:05
+Saúde24h Smart E+
+
+Saúde24h Standard - Alisson Consultor de Vendas
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Aliviaê
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Anglo Internacional Brasil
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Artebrilho Multiservicos Ltda
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Be&By Business
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Bem Mais Card- HPX
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Brasinc
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Britagem Vogelsanger Ltda
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Cartão Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Casa Health - Internacional
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Casa Health - Nacional
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Cevipa Central de Vigilancia Patrimonial
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Compensa Gestão de Ativos
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Consultive Soluções Ltda
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Convcard
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Copebens
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+Saúde24h Standard - ECID
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Expertise
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Expertme
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - F&Fcred
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Filóo
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Gestservi Gestao e Terceirizacao
+
+
+
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Global Charge
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Grupo Transvidal
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Hero Informações Comerciais
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Inova Gestão em Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Italife
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Life and Business Consultancy
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Mediclick
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Nascimento Soluções e Negócios Empresariais
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Netflix
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Núcleo Informações Cadastrais
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - PaxMed
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Phibro
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Plano de Saúde São José
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+
+
+
+Saúde24h Standard - Plano Saúde Familiar
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Plugpix Saúde
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prefeitura de Balneario Camboriu
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prefeitura de Balneário Piçarras
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prefeitura de Lages
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Saúde24h Standard - Prefeitura de Pomerode
+
+—
+03/03/26, 21:06:42
+Saúde24h Standard
+
+Taxa Utilizacao - Aemflo
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Sulplaster
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Alô Saúde Floripa - PMF - Contrato Antigo
+
+—
+08/05/25, 19:16:58
+Personalizado - Clientes
+
+Atendimentos D-1 - Rede Mais
+
+—
+04/03/26, 09:47:00
+Atendimentos D-1
+
+Atendimentos D-1 - Unificado Rede Total
+
+—
+04/03/26, 09:47:00
+Atendimentos D-1
+
+Informações Grupo Europ
+
+—
+04/03/26, 11:05:43
+Personalizado - Clientes
+
+Nutricall - Allp Digital
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Du Beneficios
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+
+
+
+Nutricall - Du Benefícios Colaboradores
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Teleorientação Nutricional - Viva Max Conecta
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Viva Care
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Saúde 60+ - Unafisco Saúde
+
+—
+03/03/26, 19:10:31
+Saúde 60 +
+
+Saúde Emocional - Teleorientação Psicológica - Brisanet
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Club Card
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Clube de Vantagens Viva Ouro
+
+
+
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Cuidar Assistência
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Funeraria Pax Prever
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - HealthMed
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - PodCast Cruzmaltino
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Sabemi Seguradora
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Uniclube
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Viva Max Conecta
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde24h Medical E+ - Aracajú
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Benedito Novo
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Missão Koripako
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Penitenciária Federal em Brasília
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Penitenciária Federal em Campo Grande
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+
+Saúde24h Medical E+ - Penitenciária Federal em Catanduvas
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Penitenciária Federal em Mossoró
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Penitenciária Federal em Porto Velho
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Prefeitura de Pomerode
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Prefeitura de Portobelo
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Prefeitura de Três Lagoas
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - São Gabriel
+
+
+
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Saúde24h Medical E+ - Senappen - Unificado
+
+—
+04/03/26, 01:05:15
+Saúde24h Medical E+
+
+Taxa Utilizacao - Afagu
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Allp Digital
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - ANIN
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - ASSETJ
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Assistência Cidadão
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Banco da Família
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Bem Mais Card- HPX
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Bom Conselho
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Bradesco
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Brisanet
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Cartão Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+Taxa Utilizacao - Casa Health - Internacional
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Casa Health - Nacional
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Club Card
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Copacabana Palace
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Copebens
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Cuidar Assistência
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Cuidar+Pernambucanas
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - DentalUni
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Du Benefícios Plus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Du Benefícios Premium
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - ECID
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - F&Fcred
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Filóo
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Funeraria Pax Prever
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+Taxa Utilizacao - Garanhuns
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Gram Telemedicina
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - GreenCard
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Grupo Transvidal
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - HealthMed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Helps Santander
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Inova Gestão em Saúde
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - IPSM
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Maisedu
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Master Med
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - MedWeb
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Napkinn
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Netflix
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Plano de Saúde São José
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Plano Saúde Família
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Prefeitura de Monte Carmelo
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Pró-Rim
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - PróSaúde24h
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Protege Centro Serra
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+
+Taxa Utilizacao - QrCode Tele Clinica Brasil
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - QrCode Tele Clinica Especialidades
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Quality
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Rede Assistência
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - SaídaMed
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - São Gabriel
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Saúde + Segura
+
+
+
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Sim Club
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - SouCare
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - SSI Saude
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - TC Telemedicina
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Tele Clinica Brasil
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Tele Clinica Plus
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - TopMed Experience - PÚBLICO
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - TotalDoc
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - TotalDoc Especialistas
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Unafisco Saúde
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Uniclube
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Via Planos
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+
+Taxa Utilizacao - VipCard
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Viva Care
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - X Docctor
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Taxa Utilizacao - Zaloo
+
+—
+04/03/26, 07:09:59
+Taxa Utilização
+
+Atendimentos Concluídos - Diario - Unificado CIS-AMFRI
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Atendimentos Concluídos - Diario - Unificado CISAMVI
+
+—
+04/03/26, 08:12:01
+Atendimentos Concluídos - Diário (Prefeituras)
+
+Consultório Virtual - Aracajú
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - PF Brasília
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - PF Campo Grande
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - PF Catanduvas
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - PF Mossoró
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - Porto Velho
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Consultório Virtual - Unificado Senappen
+
+—
+04/03/26, 07:05:16
+Consultório Virtual
+
+Detalhamento Clínico Teleconsultas - Prefeitura de Balneário Camboriú
+
+—
+04/03/26, 10:37:44
+Detalhamento Clínico Teleconsultas
+
+
+
+EAP - Andia Contabilidade
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Anglo Internacional Brasil
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Archer
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Banco Fibra
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - CSP
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - DLL Corretora
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Greencard
+
+
+
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Litoral Norte
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Maissaúde24h
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Plugpix Saúde
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - PM Comunicação
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Saúde Brasil 24h
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP - Vegas Card
+
+—
+03/03/26, 19:40:38
+EAP
+
+EAP com Teleconsulta - Plugpix Saúde
+
+—
+03/03/26, 20:07:08
+Teleconsulta (EAP)
+
+Fabric Capacity Metrics
+
+—
+07/10/25, 00:01:23
+Microsoft Fabric Capacity Metrics
+
+Fabric Capacity Metrics
+
+—
+07/10/25, 00:01:23
+Microsoft Fabric Capacity Metrics
+
+Hiperconsultadores - VLI
+
+—
+03/03/26, 22:06:02
+Hiperconsultadores
+
+Lista Beneficiários - Cuidado Saúde
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+Lista Beneficiários - Médico Amigo
+
+—
+04/03/26, 00:08:26
+Lista Beneficiários Cliente
+
+
+
+Nutricall - Casa Health Internacional
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Casa Health Nacional
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - F&F Cred
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Flextronic
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Grupo Transvidal
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - ITALIFE
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Prefeitura de Monte Carmelo
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Super A Balneário Camboriú 302
+
+
+
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Super A Blumenau 301
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Super A Florianópolis 303
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Teleorientação Nutricional - F&Fcred
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Inova Gestão em Saúde
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Prosperar
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Teleorientação Nutricional - Unafisco Saúde
+
+—
+03/03/26, 18:34:58
+Nutricall - Teleorientação Nutricional
+
+Nutricall - Unafisco Saúde
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Unificado Unifique
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - Viva Max
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Nutricall - X Docctor
+
+—
+03/03/26, 18:07:24
+Nutricall - Teleconsulta Nutricional
+
+Saúde Emocional - Teleorientação Psicológica - ASSETJ
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+
+
+
+Saúde Emocional - Teleorientação Psicológica - F&Fcred
+
+
+
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Inova Gestão em Saúde
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Prosperar
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Saúde Emocional - Teleorientação Psicológica - Via Planos
+
+—
+03/03/26, 19:36:40
+Saúde Emocional - Teleorientação Psicológica
+
+Unifique - Atendimentos de Informações Gerais - Diario
+
+—
+04/03/26, 08:06:12
+Personalizado - Clientes
+
+Unifique - Operacional Diario
+
+—
+04/03/26, 08:40:08
+Personalizado - Clientes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

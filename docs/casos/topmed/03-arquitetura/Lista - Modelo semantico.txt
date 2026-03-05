@@ -1,0 +1,496 @@
+
+Nome
+
+Tipo
+
+Proprietário
+
+Atualizado
+
+Localização
+
+Endosso
+
+Confidencialidade
+
+
+Saúde24h Plus E+ - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 00:09:04
+_DataFlows e Conjuntos (Relatórios)
+
+Taxa Utilizacao - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 07:09:45
+_DataFlows e Conjuntos (Relatórios)
+
+Gerencial Operacional
+Modelo semântico
+BI TopMed 2
+03/03/26, 14:29:18
+Dashboards Gerenciais PRO
+
+Alô Saúde Floripa - PMF
+Modelo semântico
+BI TopMed 2
+03/03/26, 18:40:04
+Personalizado - Clientes
+
+Gerencial Comercial - Área Pública
+Modelo semântico
+BI TopMed 2
+03/03/26, 10:45:06
+Dashboards Gerenciais PRO
+
+Saúde24h Standard - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 21:06:42
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde24h Basic - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+02/03/26, 23:07:39
+_DataFlows e Conjuntos (Relatórios)
+
+Gestão de Atendimentos - Policia Federal - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 18:15:05
+Personalizado - Clientes
+
+Conecta SUS Ribeirão
+Modelo semântico
+BI TopMed 2
+03/03/26, 07:41:39
+Personalizado - Clientes
+
+Gerencial Teleconsulta - Interno
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:46:01
+Dashboards Gerenciais PRO
+
+
+
+
+
+Status Atualização Base Relatórios BI
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:40:22
+Dashboards Gerenciais PRO
+
+Entrelaços - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+02/03/26, 22:36:42
+_DataFlows e Conjuntos (Relatórios)
+
+IPSM
+Modelo semântico
+BI TopMed 2
+03/03/26, 19:09:24
+Personalizado - Clientes
+
+Lista Beneficiários - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 00:08:22
+_DataFlows e Conjuntos (Relatórios)
+
+Gerencial Único
+Modelo semântico
+BI TopMed 2
+03/03/26, 15:44:13
+Dashboards Gerenciais PRO
+
+Crônicos - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 21:39:18
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde24h Premium E+ - Conjunto de Dados
+
+
+Modelo semântico
+BI TopMed 2
+03/03/26, 02:10:09
+_DataFlows e Conjuntos (Relatórios)
+
+Gerencial Financeiro
+Modelo semântico
+BI TopMed 2
+03/03/26, 15:06:49
+_Homologação PRO
+
+Mapeamento de Saúde Mental - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 21:13:14
+_DataFlows e Conjuntos (Relatórios)
+
+Teleconsulta (EAP) - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 20:07:08
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde24h Medical E+ - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 01:08:07
+_DataFlows e Conjuntos (Relatórios)
+
+OneLake Catalog - Governance for Admins
+Modelo semântico
+Admin Monitoring
+03/03/26, 14:25:08
+Admin monitoring
+
+Purview Hub
+Modelo semântico
+Admin Monitoring
+03/03/26, 13:45:56
+Admin monitoring
+
+Atendimentos Concluídos - Diario - Conjunto de dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:09:46
+_DataFlows e Conjuntos (Relatórios)
+
+Feature Usage and Adoption
+Modelo semântico
+Admin Monitoring
+03/03/26, 13:45:49
+Admin monitoring
+
+Saúde24h Plus - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 20:38:15
+_DataFlows e Conjuntos (Relatórios)
+
+Fabric Capacity Metrics
+Modelo semântico
+BI TopMed 2
+07/10/25, 00:01:23
+Microsoft Fabric Capacity Metrics
+
+Saúde24h Smart - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 20:38:22
+_DataFlows e Conjuntos (Relatórios)
+
+Ailos - BI de Vendas
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:12:25
+Personalizado - Clientes
+
+
+Lista de Relatórios e Permissões de Acesso
+Modelo semântico
+BI TopMed 2
+03/03/26, 06:39:12
+Dashboards Gerenciais PRO
+
+Mapeamento de Saúde Mental - Polícia Federal - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 21:40:39
+Personalizado - Clientes
+
+Grupo CASE - Gestão de Monitoramento
+Modelo semântico
+BI TopMed 2
+03/03/26, 11:42:32
+Personalizado - Clientes
+
+Mapeamento de Saúde Psicossocial - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+02/03/26, 23:31:16
+_DataFlows e Conjuntos (Relatórios)
+
+Consultório Virtual - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 07:05:05
+_DataFlows e Conjuntos (Relatórios)
+
+Atendimentos D-1 - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:37:52
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde Emocional - Terapia Online - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 00:38:19
+_DataFlows e Conjuntos (Relatórios)
+
+Assistente Virtual - Mediktor
+Modelo semântico
+BI TopMed 2
+03/03/26, 07:23:09
+Dashboards Gerenciais PRO
+
+Saúde24h Premium - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+02/03/26, 23:34:14
+_DataFlows e Conjuntos (Relatórios)
+
+Nutricall - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 18:07:24
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde 60+ - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 19:10:31
+_DataFlows e Conjuntos (Relatórios)
+
+Informações Grupo Europ
+Modelo semântico
+BI TopMed 2
+03/03/26, 11:06:02
+Personalizado - Clientes
+
+Alô Saúde Floripa - PMF
+Modelo semântico
+BI TopMed 2
+25/02/26, 23:02:20
+_Homologação PRO
+
+Gerencial Área Técnica
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:28:39
+Dashboards Gerenciais PRO
+
+Corpo e Mente em Forma
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:15:59
+Personalizado - Clientes
+
+Hiperconsultadores - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 22:06:02
+_DataFlows e Conjuntos (Relatórios)
+
+Gerencial Faturamento_Versão Antiga
+Modelo semântico
+BI TopMed 2
+03/03/26, 11:42:25
+Dashboards Gerenciais PRO
+
+
+
+
+Relatório Pendências Operacionais
+Modelo semântico
+BI TopMed 2
+03/03/26, 07:44:44
+Dashboards Gerenciais PRO
+
+Gerencial de Vidas x Produtos
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:25:41
+Dashboards Gerenciais PRO
+
+Extração Nominal de Vidas
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:22:58
+Dashboards Gerenciais PRO
+
+Ailos - Gestão de Atendimentos
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:36:45
+Personalizado - Clientes
+
+Unifique - Atendimentos de Informações Gerais - Diario
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:06:25
+Personalizado - Clientes
+
+Gerencial Financeiro
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:14:22
+Dashboards Gerenciais PRO
+
+Unifique - Operacional Diario
+
+
+Modelo semântico
+BI TopMed 2
+03/03/26, 08:37:19
+Personalizado - Clientes
+
+Relatório Complementar - Localiza
+Modelo semântico
+BI TopMed 2
+02/03/26, 19:09:17
+Personalizado - Clientes
+
+Gerencial Faturamento
+Modelo semântico
+BI TopMed 2
+03/03/26, 09:49:14
+Dashboards Gerenciais PRO
+
+CISNORDESTE - Atendimentos Concluídos - Mensal
+Modelo semântico
+BI TopMed 2
+03/03/26, 19:08:35
+Personalizado - Clientes
+
+Relatórios LH - Monitoramento
+Modelo semântico
+BI TopMed 2
+03/03/26, 10:15:52
+Dashboards Gerenciais PRO
+
+Operações Receptivas
+Modelo semântico
+BI TopMed 2
+03/03/26, 10:24:43
+Dashboards Gerenciais PRO
+
+Transpetro - Gestão de Atendimentos
+Modelo semântico
+BI TopMed 2
+03/03/26, 10:37:54
+Personalizado - Clientes
+
+Nutricall - Teleorientação Nutricional - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 18:34:58
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde Emocional - Teleorientação Psicológica - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 19:36:40
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde24h Smart E + - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 20:10:05
+_DataFlows e Conjuntos (Relatórios)
+
+Obesidade - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 01:36:43
+_DataFlows e Conjuntos (Relatórios)
+
+Saúde24h PAV PAE Consulta Imediata - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 16:41:23
+_DataFlows e Conjuntos (Relatórios)
+
+Detalhamento Clínico Teleconsultas - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 10:38:20
+_DataFlows e Conjuntos (Relatórios)
+
+
+
+
+Relatório de Demonstração - Área Pública
+Modelo semântico
+BI TopMed 2
+18/01/26, 19:01:15
+Dashboards Gerenciais PRO
+
+Correios - BI de Vendas
+Modelo semântico
+BI TopMed 2
+03/03/26, 11:17:30
+Dashboards Gerenciais PRO
+
+Gerencial Comercial
+Modelo semântico
+BI TopMed 2
+03/03/26, 12:44:53
+Dashboards Gerenciais PRO
+
+Gestão de Monitoramento - Conjunto de Dados
+Modelo semântico
+BI TopMed 2
+03/03/26, 11:11:42
+_DataFlows e Conjuntos (Relatórios)
+
+EAP - Conjunto de Dados
+
+
+Modelo semântico
+BI TopMed 2
+03/03/26, 19:40:38
+_DataFlows e Conjuntos (Relatórios)
+
+Gerencial Faturamento
+Modelo semântico
+BI TopMed 2
+16/12/25, 10:43:42
+_Homologação PRO
+
+Gerencial TelaPet
+Modelo semântico
+BI TopMed 2
+18/12/25, 09:49:10
+_Homologação
+
+Relatório de Demonstração - Mapeamento de Saúde Mental
+Modelo semântico
+BI TopMed 2
+14/11/25, 15:10:30
+Dashboards Gerenciais PRO
+
+Apresentação Correios
+Modelo semântico
+BI TopMed 2
+23/10/24, 11:31:04
+Personalizado - Clientes
+
+Alô Saúde Floripa - PMF - Contrato Antigo
+Modelo semântico
+BI TopMed 2
+08/05/25, 19:16:58
+
+Personalizado - Clientes
+
+PoC ANAC - Gestão Unificada Atendimentos
+Modelo semântico
+BI TopMed 2
+02/06/25, 12:02:23
+Personalizado - Clientes
+
+Content Sharing
+Modelo semântico
+Admin Monitoring
+03/03/26, 13:50:43
+Admin monitoring
+
